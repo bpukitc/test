@@ -1,0 +1,1616 @@
+2020-09-02 08:52:14.001972-0700 (t8459:@x47b710) [info] [gallery] [Laguna Data Source] Started waiting for SCIdleMonitor.
+2020-09-02 08:52:14.011647-0700 (t41987:@x4787c8) [info] [gallery] Finish setting up profile once {
+	objectID:x-coredata://84F0E14D-D066-4684-BD2A-F4A820C15A70/GalleryProfile/p1
+	lastBackupNotificationTime:(null)
+	lastFeaturedStorySyncTime:2020-09-02 08:28:39 +0000
+	lastFullSyncTime:2020-09-02 08:28:34 +0000
+	snapTotalQuota:100000
+	syncToken:eyJtYXhTZXFudW0iOjMyNTYsIm1pblRpbWVzdGFtcCI6MTQ2ODA0NTc4MDg1N30=
+	userId:9bb53ea6-7c2b-4d44-a082-9d3a1c67165f
+}
+
+2020-09-02 08:52:14.476727-0700 (t45571:@x476bc4) [info] [gallery] set up operation dependency for profile {
+	objectID:x-coredata://84F0E14D-D066-4684-BD2A-F4A820C15A70/GalleryProfile/p1
+	lastBackupNotificationTime:(null)
+	lastFeaturedStorySyncTime:2020-09-02 08:28:39 +0000
+	lastFullSyncTime:2020-09-02 08:28:34 +0000
+	snapTotalQuota:100000
+	syncToken:eyJtYXhTZXFudW0iOjMyNTYsIm1pblRpbWVzdGFtcCI6MTQ2ODA0NTc4MDg1N30=
+	userId:9bb53ea6-7c2b-4d44-a082-9d3a1c67165f
+}
+ userSession validate: 0
+2020-09-02 08:52:14.629281-0700 (t41987:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-02 08:52:14.635778-0700 (t26883:@x5640e4) [info] [gallery] [Laguna Data Source] Finished waiting for SCIdleMonitor.
+2020-09-02 08:52:14.635818-0700 (t26883:@x564484) [info] [gallery] [Laguna Data Source] Started setup.
+2020-09-02 08:52:14.643474-0700 (t26883:@x2f3e248) [info] [gallery] [Laguna Data Source] _setupOnCloudSyncReady
+2020-09-02 08:52:14.643545-0700 (t26883:@x2f3d89c) [info] [gallery] [Laguna Data Source] _processLagunaContentChange
+2020-09-02 08:52:14.644622-0700 (t45571:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusResync -> CloudSyncStatusCheckToUpload
+2020-09-02 08:52:14.647011-0700 (t45571:@x5a7528) [info] [gallery] [CloudSync][Resync Step] Sync unknown, {
+    "may_upload" = "false",
+    "should_resync" = "false",
+    "token" = "eyJtYXhTZXFudW0iOjMyNTYsIm1pblRpbWVzdGFtcCI6MTQ2ODA0NTc4MDg1N30=",
+}
+2020-09-02 08:52:14.648831-0700 (t45571:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusCheckToUpload -> CloudSyncStatusSynced
+2020-09-02 08:52:14.648969-0700 (t41987:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-02 08:52:14.649377-0700 (t41987:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 08:52:14.649404-0700 (t41987:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-02 08:52:14.649412-0700 (t41987:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 08:52:15.070641-0700 (t3075:@x5e1094) [info] [gallery] [YES Datasource] Setup
+2020-09-02 08:52:15.071091-0700 (t3075:@x5e17f8) [info] [gallery] [YES Datasource] Cloudsync is ready, fetch from server if needed
+2020-09-02 08:52:15.071917-0700 (t3075:@x5e228c) [info] [gallery] [YES Datasource] Waiting for next collections update
+2020-09-02 09:04:01.543869-0700 (main:@x2c7ae18) [info] [gallery] GALLERY_LOGGER: SET TAB AS SNAPS
+2020-09-02 09:04:01.547586-0700 (t9527:@x2def650) [info] [gallery] [clusterer] start clustering (min=1)
+2020-09-02 09:04:01.800937-0700 (main:@x2e2cc60) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher (permission: 3) | (_photoLibraryFetcher = <nil>)
+2020-09-02 09:04:01.801208-0700 (main:@x530d84c) [info] [gallery] [SCGalleryPhotoLibraryFetcher] fetchWithResultType: 0 | observesChange: 1 | authorizationStatus: 3
+2020-09-02 09:04:01.801230-0700 (main:@x530dd24) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _setupFetch
+2020-09-02 09:04:01.801244-0700 (main:@x2e2cd58) [info] [gallery] [Camera Roll Tab] Photo Library Fetcher did initialize
+2020-09-02 09:04:02.137558-0700 (t13587:@x2def650) [info] [gallery] [clusterer] start clustering (min=1)
+2020-09-02 09:04:02.138707-0700 (main:@x2c79720) [info] [gallery] GALLERY_LOGGER:DID_ENTER_GALLERY
+2020-09-02 09:04:02.148592-0700 (main:@x2c5ea94) [info] [gallery] [Tabs Update] GALLERY DID APPEAR ONCE
+2020-09-02 09:04:02.148608-0700 (main:@x2c5eae4) [info] [gallery] [Tabs Update] Not new user
+2020-09-02 09:04:02.155097-0700 (main:@x3fd0e0) [info] [gallery] [Indexer] VISUAL MODEL LOCAL AVAILABLE
+2020-09-02 09:04:02.269742-0700 (t1595:@x2c831f0) [info] [gallery] UI start to dismiss loading view
+2020-09-02 09:04:02.293626-0700 (t15875:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-02 09:04:02.294677-0700 (t15875:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-02 09:04:02.294921-0700 (t15875:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-02 09:04:02.295131-0700 (t15875:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-02 09:04:02.301596-0700 (t15875:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-02 09:04:02.301830-0700 (t15875:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-02 09:04:02.302079-0700 (t15875:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-02 09:04:02.459506-0700 (t51303:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 09:04:02.688170-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 1 snaps
+2020-09-02 09:04:02.688552-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 3 snaps
+2020-09-02 09:04:02.688882-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 1 snaps
+2020-09-02 09:04:02.689010-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 1 snaps
+2020-09-02 09:04:02.689101-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 1 snaps
+2020-09-02 09:04:02.689316-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 1 snaps
+2020-09-02 09:04:02.689593-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 2 snaps
+2020-09-02 09:04:02.689914-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 2 snaps
+2020-09-02 09:04:02.690452-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 3 snaps
+2020-09-02 09:04:02.691056-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 5 snaps
+2020-09-02 09:04:02.691611-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 3 snaps
+2020-09-02 09:04:02.692020-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 3 snaps
+2020-09-02 09:04:02.692287-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 2 snaps
+2020-09-02 09:04:02.692465-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 1 snaps
+2020-09-02 09:04:02.693712-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 11 snaps
+2020-09-02 09:04:02.694146-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 4 snaps
+2020-09-02 09:04:02.696647-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 9 snaps
+2020-09-02 09:04:02.697294-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 3 snaps
+2020-09-02 09:04:02.698318-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 10 snaps
+2020-09-02 09:04:02.698995-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 9 snaps
+2020-09-02 09:04:02.699092-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 1 snaps
+2020-09-02 09:04:02.699249-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 2 snaps
+2020-09-02 09:04:02.700253-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 7 snaps
+2020-09-02 09:04:02.700349-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 1 snaps
+2020-09-02 09:04:02.700635-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 2 snaps
+2020-09-02 09:04:02.700791-0700 (t58903:@x2df2a24) [info] [gallery] [clusterer] finish clustering 2 snaps
+2020-09-02 09:04:02.720558-0700 (t58903:@x2defca0) [info] [gallery] [clusterer] finished with 26 clusters, duration:0.731392
+2020-09-02 09:04:02.802080-0700 (t23399:@x2df2a24) [info] [gallery] [clusterer] finish clustering 50 snaps
+2020-09-02 09:04:03.445220-0700 (t40331:@x2df2a24) [info] [gallery] [clusterer] finish clustering 15 snaps
+2020-09-02 09:04:03.489853-0700 (t40331:@x2df2a24) [info] [gallery] [clusterer] finish clustering 22 snaps
+2020-09-02 09:04:03.593659-0700 (t51303:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2833 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 09:04:03.595154-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 09:04:03.595231-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2833)
+2020-09-02 09:04:03.596361-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2833 camera roll assets.
+2020-09-02 09:04:03.734590-0700 (t51303:@x2c15234) [info] [gallery] Start to setup EGOCipher
+2020-09-02 09:04:03.741754-0700 (t51303:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-02 09:04:03.741868-0700 (t51303:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-02 09:04:03.741975-0700 (t51303:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-02 09:04:03.742070-0700 (t51303:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-02 09:04:03.742166-0700 (t51303:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-02 09:04:03.742263-0700 (t51303:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-02 09:04:03.742365-0700 (t51303:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-02 09:04:03.816111-0700 (t36991:@x2d946b8) [info] [gallery] Finish fetch snaps for 237 out of 237
+2020-09-02 09:04:03.994456-0700 (t9527:@x2df2a24) [info] [gallery] [clusterer] finish clustering 4 snaps
+2020-09-02 09:04:04.157984-0700 (t9527:@x2df2a24) [info] [gallery] [clusterer] finish clustering 41 snaps
+2020-09-02 09:04:04.383187-0700 (t9527:@x2df2a24) [info] [gallery] [clusterer] finish clustering 3 snaps
+2020-09-02 09:04:04.658285-0700 (t9527:@x2df2a24) [info] [gallery] [clusterer] finish clustering 53 snaps
+2020-09-02 09:04:05.463663-0700 (t9527:@x2df2a24) [info] [gallery] [clusterer] finish clustering 31 snaps
+2020-09-02 09:04:05.610660-0700 (t36991:@x2d94e38) [info] [gallery] Finish fetch public snaps for 235 entries, 235 snaps out of 237
+2020-09-02 09:04:05.650277-0700 (t13343:@x2d946b8) [info] [gallery] Finish fetch snaps for 3 out of 3
+2020-09-02 09:04:05.667332-0700 (t13343:@x2d94e38) [info] [gallery] Finish fetch public snaps for 3 entries, 3 snaps out of 3
+2020-09-02 09:04:05.684002-0700 (main:@x67b2fd8) [info] [gallery] [Gallery Collection View Helper] return NO due to indexPath
+2020-09-02 09:04:05.696848-0700 (t15875:@x2d946b8) [info] [gallery] Finish fetch snaps for 24 out of 24
+2020-09-02 09:04:05.875171-0700 (t9527:@x2df2a24) [info] [gallery] [clusterer] finish clustering 63 snaps
+2020-09-02 09:04:05.990791-0700 (t15875:@x2d94e38) [info] [gallery] Finish fetch public snaps for 24 entries, 24 snaps out of 24
+2020-09-02 09:04:06.099356-0700 (t15875:@x2d946b8) [info] [gallery] Finish fetch snaps for 144 out of 144
+2020-09-02 09:04:06.559526-0700 (t9527:@x2df2a24) [info] [gallery] [clusterer] finish clustering 87 snaps
+2020-09-02 09:04:07.024268-0700 (t9527:@x2df2a24) [info] [gallery] [clusterer] finish clustering 49 snaps
+2020-09-02 09:04:07.254847-0700 (t15875:@x2d94e38) [info] [gallery] Finish fetch public snaps for 136 entries, 136 snaps out of 144
+2020-09-02 09:04:07.424067-0700 (t15875:@x2d946b8) [info] [gallery] Finish fetch snaps for 164 out of 164
+2020-09-02 09:04:07.660949-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 44 snaps
+2020-09-02 09:04:07.977913-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 6 snaps
+2020-09-02 09:04:08.256818-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 63 snaps
+2020-09-02 09:04:08.345699-0700 (t15875:@x2d94e38) [info] [gallery] Finish fetch public snaps for 159 entries, 159 snaps out of 164
+2020-09-02 09:04:08.362025-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 21 snaps
+2020-09-02 09:04:08.521172-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 52 snaps
+2020-09-02 09:04:08.606509-0700 (t15875:@x2d946b8) [info] [gallery] Finish fetch snaps for 659 out of 659
+2020-09-02 09:04:08.858415-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 16 snaps
+2020-09-02 09:04:09.288318-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 77 snaps
+2020-09-02 09:04:09.503847-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 32 snaps
+2020-09-02 09:04:09.644344-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 20 snaps
+2020-09-02 09:04:10.101810-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 44 snaps
+2020-09-02 09:04:10.271224-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 39 snaps
+2020-09-02 09:04:10.390175-0700 (t36991:@x2df2a24) [info] [gallery] [clusterer] finish clustering 33 snaps
+2020-09-02 09:04:10.567896-0700 (main:@x67b2fd8) [info] [gallery] [Gallery Collection View Helper] return NO due to indexPath
+2020-09-02 09:04:10.584957-0700 (t50443:@x2df2a24) [info] [gallery] [clusterer] finish clustering 10 snaps
+2020-09-02 09:04:10.811342-0700 (t50443:@x2df2a24) [info] [gallery] [clusterer] finish clustering 52 snaps
+2020-09-02 09:04:11.252044-0700 (t50443:@x2df2a24) [info] [gallery] [clusterer] finish clustering 26 snaps
+2020-09-02 09:04:11.415340-0700 (t50443:@x2df2a24) [info] [gallery] [clusterer] finish clustering 33 snaps
+2020-09-02 09:04:11.533431-0700 (t50443:@x2df2a24) [info] [gallery] [clusterer] finish clustering 32 snaps
+2020-09-02 09:04:11.905226-0700 (t50443:@x2df2a24) [info] [gallery] [clusterer] finish clustering 57 snaps
+2020-09-02 09:04:12.119372-0700 (t50443:@x2df2a24) [info] [gallery] [clusterer] finish clustering 11 snaps
+2020-09-02 09:04:12.407780-0700 (t50443:@x2df2a24) [info] [gallery] [clusterer] finish clustering 55 snaps
+2020-09-02 09:04:12.598813-0700 (t50443:@x2df2a24) [info] [gallery] [clusterer] finish clustering 3 snaps
+2020-09-02 09:04:12.730175-0700 (t50443:@x2df2a24) [info] [gallery] [clusterer] finish clustering 41 snaps
+2020-09-02 09:04:12.929992-0700 (t15875:@x2d94e38) [info] [gallery] Finish fetch public snaps for 640 entries, 640 snaps out of 659
+2020-09-02 09:04:12.997447-0700 (t15875:@x2df2a24) [info] [gallery] [clusterer] finish clustering 8 snaps
+2020-09-02 09:04:13.277406-0700 (t15875:@x2df2a24) [info] [gallery] [clusterer] finish clustering 79 snaps
+2020-09-02 09:04:13.485151-0700 (t15875:@x2df2a24) [info] [gallery] [clusterer] finish clustering 53 snaps
+2020-09-02 09:04:13.537999-0700 (t15875:@x2df2a24) [info] [gallery] [clusterer] finish clustering 27 snaps
+2020-09-02 09:04:13.617729-0700 (t15875:@x2df2a24) [info] [gallery] [clusterer] finish clustering 21 snaps
+2020-09-02 09:04:13.760903-0700 (t15875:@x2df2a24) [info] [gallery] [clusterer] finish clustering 49 snaps
+2020-09-02 09:04:14.050058-0700 (t15875:@x2df2a24) [info] [gallery] [clusterer] finish clustering 45 snaps
+2020-09-02 09:04:14.158827-0700 (t15875:@x2df2a24) [info] [gallery] [clusterer] finish clustering 18 snaps
+2020-09-02 09:04:14.269966-0700 (t15875:@x2df2a24) [info] [gallery] [clusterer] finish clustering 49 snaps
+2020-09-02 09:04:15.158831-0700 (t51303:@x2df2a24) [info] [gallery] [clusterer] finish clustering 33 snaps
+2020-09-02 09:04:15.195925-0700 (t51303:@x2df2a24) [info] [gallery] [clusterer] finish clustering 33 snaps
+2020-09-02 09:04:15.358077-0700 (t51303:@x2df2a24) [info] [gallery] [clusterer] finish clustering 3 snaps
+2020-09-02 09:04:15.476039-0700 (t51303:@x2df2a24) [info] [gallery] [clusterer] finish clustering 38 snaps
+2020-09-02 09:04:15.545464-0700 (t51303:@x2df2a24) [info] [gallery] [clusterer] finish clustering 41 snaps
+2020-09-02 09:04:15.695241-0700 (t51303:@x2df2a24) [info] [gallery] [clusterer] finish clustering 20 snaps
+2020-09-02 09:04:15.761190-0700 (t51303:@x2df2a24) [info] [gallery] [clusterer] finish clustering 32 snaps
+2020-09-02 09:04:15.813161-0700 (t51303:@x2df2a24) [info] [gallery] [clusterer] finish clustering 6 snaps
+2020-09-02 09:04:15.824688-0700 (t51303:@x2df2a24) [info] [gallery] [clusterer] finish clustering 1 snaps
+2020-09-02 09:04:15.859131-0700 (t51303:@x2defca0) [info] [gallery] [clusterer] finished with 51 clusters, duration:14.318416
+2020-09-02 09:04:43.889763-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 12:59:32.489621-0700 (t52787:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2828ca370>
+2020-09-02 12:59:32.490535-0700 (t52787:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2828ca370>
+2020-09-02 12:59:43.432696-0700 (t49195:@x2bfbdc8) [info] [gallery] [YES Datasource] Fetching new collections from server
+2020-09-02 12:59:44.587003-0700 (t62779:@x2bfc28c) [info] [gallery] [YES Datasource] Servlet response received, status code:2000
+2020-09-02 12:59:44.587065-0700 (t62779:@x2bfceb4) [info] [gallery] [YES Datasource] Processing server response
+2020-09-02 12:59:44.598368-0700 (t52787:@x2bfd2cc) [info] [gallery] [YES Datasource] All servlet collection ids: [
+    "42467406-d0a0-49ba-8aac-67826d42a3ca",
+    "4a4d7c9a-f1ca-44cf-9310-a6dfcfc1dd15",
+]
+2020-09-02 12:59:44.598397-0700 (t52787:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid DDFFC556-BEFA-4DB2-91BE-C1F500FEB265(04135721-afe1-4288-b6be-87c3e3feb9fd)
+2020-09-02 12:59:44.598416-0700 (t52787:@x2bfd614) [info] [gallery] [YES Datasource] Saved local entry unknown to server, cannot delete: DDFFC556-BEFA-4DB2-91BE-C1F500FEB265(04135721-afe1-4288-b6be-87c3e3feb9fd)
+2020-09-02 12:59:44.598423-0700 (t52787:@x2bfd74c) [info] [gallery] [YES Datasource] local entry still known to server, but this is the saved copy: DDFFC556-BEFA-4DB2-91BE-C1F500FEB265(04135721-afe1-4288-b6be-87c3e3feb9fd)
+2020-09-02 12:59:44.598427-0700 (t52787:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid 69E9EC40-5FFA-4935-BE90-53C4F6C48F99(dd959fcb-8c96-4b82-9af3-6cc5ff1d53ff)
+2020-09-02 12:59:44.598431-0700 (t52787:@x2bfd614) [info] [gallery] [YES Datasource] Saved local entry unknown to server, cannot delete: 69E9EC40-5FFA-4935-BE90-53C4F6C48F99(dd959fcb-8c96-4b82-9af3-6cc5ff1d53ff)
+2020-09-02 12:59:44.598435-0700 (t52787:@x2bfd74c) [info] [gallery] [YES Datasource] local entry still known to server, but this is the saved copy: 69E9EC40-5FFA-4935-BE90-53C4F6C48F99(dd959fcb-8c96-4b82-9af3-6cc5ff1d53ff)
+2020-09-02 12:59:44.598438-0700 (t52787:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid F46E4AA3-F479-4C5B-B7A2-37EF5B6AB5EE(b7da6f6a-4032-44c8-ac0e-5cd59ea8f792)
+2020-09-02 12:59:44.598443-0700 (t52787:@x2bfd614) [info] [gallery] [YES Datasource] Saved local entry unknown to server, cannot delete: F46E4AA3-F479-4C5B-B7A2-37EF5B6AB5EE(b7da6f6a-4032-44c8-ac0e-5cd59ea8f792)
+2020-09-02 12:59:44.598446-0700 (t52787:@x2bfd74c) [info] [gallery] [YES Datasource] local entry still known to server, but this is the saved copy: F46E4AA3-F479-4C5B-B7A2-37EF5B6AB5EE(b7da6f6a-4032-44c8-ac0e-5cd59ea8f792)
+2020-09-02 12:59:44.598449-0700 (t52787:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid 4D92B2DA-34B0-442D-92C4-F946DBC22F91(9c7abc36-b9c2-46b0-9553-cde99a3fe166)
+2020-09-02 12:59:44.598455-0700 (t52787:@x2bfd614) [info] [gallery] [YES Datasource] Saved local entry unknown to server, cannot delete: 4D92B2DA-34B0-442D-92C4-F946DBC22F91(9c7abc36-b9c2-46b0-9553-cde99a3fe166)
+2020-09-02 12:59:44.598458-0700 (t52787:@x2bfd74c) [info] [gallery] [YES Datasource] local entry still known to server, but this is the saved copy: 4D92B2DA-34B0-442D-92C4-F946DBC22F91(9c7abc36-b9c2-46b0-9553-cde99a3fe166)
+2020-09-02 12:59:44.598460-0700 (t52787:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid 502351B6-D749-4CDF-B0A1-1D68971252E9(4a4d7c9a-f1ca-44cf-9310-a6dfcfc1dd15)
+2020-09-02 12:59:44.598465-0700 (t52787:@x2bfd614) [info] [gallery] [YES Datasource] local entry still known to server: 502351B6-D749-4CDF-B0A1-1D68971252E9(4a4d7c9a-f1ca-44cf-9310-a6dfcfc1dd15)
+2020-09-02 12:59:44.598473-0700 (t52787:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid E2F9C895-067A-4537-B8FC-4CF5A3A24A42(42467406-d0a0-49ba-8aac-67826d42a3ca)
+2020-09-02 12:59:44.598478-0700 (t52787:@x2bfd614) [info] [gallery] [YES Datasource] local entry still known to server: E2F9C895-067A-4537-B8FC-4CF5A3A24A42(42467406-d0a0-49ba-8aac-67826d42a3ca)
+2020-09-02 12:59:44.598496-0700 (t52787:@x2bfe0d8) [info] [gallery] [YES Datasource] Skip creation for featured collection 42467406-d0a0-49ba-8aac-67826d42a3ca
+2020-09-02 12:59:44.598524-0700 (t52787:@x2bfe0d8) [info] [gallery] [YES Datasource] Skip creation for featured collection 4a4d7c9a-f1ca-44cf-9310-a6dfcfc1dd15
+2020-09-02 12:59:44.606219-0700 (t52787:@x2bfe50c) [info] [gallery] [YES Datasource] Done processing all new collections
+2020-09-02 12:59:44.614080-0700 (t52787:@x5e228c) [info] [gallery] [YES Datasource] Waiting for next collections update
+2020-09-02 12:59:45.104939-0700 (t48727:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-02 12:59:45.105547-0700 (t48727:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-02 12:59:45.122145-0700 (t48727:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 12:59:45.122876-0700 (t48727:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-02 12:59:45.122891-0700 (t48727:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 12:59:46.617946-0700 (t38151:@x2c831f0) [info] [gallery] UI start to dismiss loading view
+2020-09-02 16:42:07.075858-0700 (t2591:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x282861c20>
+2020-09-02 16:42:07.347904-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 16:42:07.626378-0700 (main:@x2c7af38) [info] [gallery] GALLERY_LOGGER: SET MAX_SCROLL_CONTENT_OFFSET FOR TAB SNAPS
+2020-09-02 16:42:07.628338-0700 (main:@x2c79904) [info] [gallery] GALLERY_LOGGER:DID_EXIT_GALLERY
+2020-09-02 16:42:08.756519-0700 (t14867:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x282861c20>
+2020-09-02 16:42:08.756567-0700 (t14867:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 16:42:17.141738-0700 (t14867:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2834 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 16:42:17.142866-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 16:42:17.144371-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2834)
+2020-09-02 16:42:17.146267-0700 (t14867:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 16:42:17.146541-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2834 camera roll assets.
+2020-09-02 16:42:17.241467-0700 (t14867:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2834 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 16:42:17.242130-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 16:42:17.242148-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2834)
+2020-09-02 16:42:17.243485-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2834 camera roll assets.
+2020-09-02 16:42:35.156990-0700 (main:@x530d84c) [info] [gallery] [SCGalleryPhotoLibraryFetcher] fetchWithResultType: 1 | observesChange: 1 | authorizationStatus: 3
+2020-09-02 16:42:35.157005-0700 (main:@x530dd24) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _setupFetch
+2020-09-02 16:42:35.157045-0700 (t47627:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 16:42:35.544810-0700 (t47627:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Media Drawer] Fetched 2834 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 16:44:37.686553-0700 (main:@x5307a88) [info] [gallery] [Gallery Saving][Preview] willSaveSnap. saveToGallery = 1, saveToCameraRoll = 1, media_type = IMAGE, edited = true,  gallerySnapCount = 1, savingSessionId = 93FC059B-63EF-45EA-AFA1-F38EAE49E7E1, captureSessionId = 263FEACF-B5FF-4017-ABD7-4003A051B0E1
+2020-09-02 16:44:37.691337-0700 (main:@x53082fc) [info] [gallery] [Gallery Saving][Preview][Breakdown] Gallery saving session id 9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+2020-09-02 16:44:37.834141-0700 (main:@x530aeb4) [info] [gallery] [Gallery Saving][Preview] didFinishGeneratePreviewBlobWithEventUuid Gallery saving session id 9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+2020-09-02 16:44:38.279867-0700 (t42787:@x2c110e8) [info] [gallery] update params [
+    "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    33.855699,
+    -118.145894,
+] in EGOCipher
+2020-09-02 16:44:38.323082-0700 (t42787:@x2c110e8) [info] [gallery] update params [
+    "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    <0x6eadc3c543dd2b2f62999b4d1b1e4801fed7e91753062ceaa73728145a9c6d>,
+    <0xde1caef91df8f1785dee9a83a1a7bb31>,
+    0,
+] in EGOCipher
+2020-09-02 16:44:38.342991-0700 (t42787:@x2be1d8c) [info] [gallery] [Gallery Saving][Breakdown] didFinishEncrypting
+2020-09-02 16:44:38.380781-0700 (t42787:@x530af50) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishPackingGallerySnapWithEventUuid Gallery saving session id 9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+2020-09-02 16:44:38.380890-0700 (t42787:@x530afec) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishPackingSnapDetailWithEventUuidGallery saving session id 9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+2020-09-02 16:44:38.386447-0700 (t42787:@x2be2964) [info] [gallery] [Gallery Data Mutator] Save photo snap {
+	objectID:(null)
+	attribution:(null)
+	cameraFrontFacing:1
+	cameraRollId:(null)
+	captureTimeUtc:2020-09-02 23:43:35 +0000
+	cloudMediaState:0
+	createTimeUtc:2020-09-02 23:44:38 +0000
+	deviceFirmwareInfo:(null)
+	deviceId:(null)
+	duplicatedFromSnapId:(null)
+	duration:10
+	externalId:(null)
+	framing:(null)
+	hasInterestingnessScore:0
+	hasLocation:1
+	hasOverlayImage:1
+	hasSynced:0
+	hasThumbnail:0
+	height:1136
+	infiniteDuration:1
+	interestingnessScore:0
+	isTemporary:0
+	mediaAttributes:(null)
+	mediaFormat:1
+	mediaId:C252333E-6983-4328-A6FE-8A45BB1BF35C
+	mediaRedirectURI:(null)
+	mediaType:0
+	multiSnapGroupId:(null)
+	orientation:0
+	overlayRedirectURI:(null)
+	placeholderCreateTime:2020-09-02 23:44:38 +0000
+	retryFromSnapId:(null)
+	saverUserId:9bb53ea6-7c2b-4d44-a082-9d3a1c67165f
+	sensorBlob:(null)
+	servletMediaFormat:image_jpeg
+	snapAssets:(null)
+	snapId:C252333E-6983-4328-A6FE-8A45BB1BF35C
+	sojuMediaType:0
+	source:0
+	thumbnailRedirectURI:(null)
+	thumbnailUploadState:1
+	timeZoneName:America/Los_Angeles
+	toolVersions:(
+    "{\n\ttool:DRAWING\n\tversion:2\n}\n",
+    "{\n\ttool:STICKER\n\tversion:1\n}\n",
+    "{\n\ttool:CAPTION\n\tversion:2\n}\n",
+    "{\n\ttool:BITMOJI\n\tversion:1\n}\n"
+)
+	transferBatchId:(null)
+	width:640
+}
+ to new entry {
+	objectID:(null)
+	autosaveTimeUtc:(null)
+	bitmojiComicId:(null)
+	collectionAttributes:(null)
+	createTimeUtc:2020-09-02 23:44:38 +0000
+	creatorUserId:(null)
+	dataVaultEncryption:(null)
+	duplicateTimeUtc:2020-09-02 23:44:38 +0000
+	earliestSnapCreateTimeUtc:(null)
+	entryId:C252333E-6983-4328-A6FE-8A45BB1BF35C
+	entrySource:0
+	externalId:(null)
+	featuredExpirationTimeUtc:(null)
+	galleryType:0
+	isAutoClusterPrototype:0
+	isHidden:0
+	isPrivate:0
+	isTemporary:0
+	latestSnapCaptureTimeUtc:(null)
+	pendingSyncs:0
+	priority:0
+	retryFromEntryId:(null)
+	saverUserId:(null)
+	seenInCarousel:0
+	seqNum:0
+	snapsHash:(null)
+	snapsInfo:(null)
+	snapsOrder:(null)
+	snapsViewed:0
+	sources:0
+	subtitle:(null)
+	syncedAutosaveTimeUtc:(null)
+	syncedIsPrivate:0
+	syncedTitle:(null)
+	thumbnailEncrypted:0
+	thumbnailUrl:(null)
+	thumbnailUrlType:0
+	title:(null)
+	titleOverlayUrl:(null)
+	titleOverlayUrlType:0
+	viewType:0
+}
+, context {
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-02 23:44:38 +0000
+	parentContext:(null)
+	savingEventUuid:9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+	contextMenuSource:(null)
+}
+
+2020-09-02 16:44:38.389091-0700 (t42787:@x530b124) [info] [gallery] [Gallery Saving][Preview][Breakdown] didStartAppendingOperationWithEventUuid Gallery saving session id 9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+2020-09-02 16:44:38.389702-0700 (t42787:@x677756c) [info] [gallery] [CloudSync] Appending operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-02 23:44:38 +0000
+	parentContext:(null)
+	savingEventUuid:9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "AB5FFF2B-6478-45C1-B14F-07E1E02D6EA8",
+    "time_stamp" = "2020-09-02 23:44:38 +0000",
+    "snap_id" = "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+}
+2020-09-02 16:44:38.726513-0700 (t20279:@x67780f8) [info] [gallery] [CloudSync] Successfully finished appending operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-02 23:44:38 +0000
+	parentContext:(null)
+	savingEventUuid:9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "AB5FFF2B-6478-45C1-B14F-07E1E02D6EA8",
+    "time_stamp" = "2020-09-02 23:44:38 +0000",
+    "snap_id" = "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+}
+2020-09-02 16:44:38.733084-0700 (t20279:@x2c110e8) [info] [gallery] update params [
+    "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    33.855699,
+    -118.145894,
+] in EGOCipher
+2020-09-02 16:44:38.746196-0700 (t20279:@x530b1c0) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishAppendingOperationWithEventUuid Gallery saving session id 9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+2020-09-02 16:44:38.746457-0700 (t60451:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusSynced -> CloudSyncStatusCheckToUpload
+2020-09-02 16:44:39.086500-0700 (t22195:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-02 16:44:39.086650-0700 (t22195:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-02 16:44:39.088795-0700 (main:@x5309558) [info] [gallery] [Gallery Saving][Preview] didSaveToMemories. gallerySnapId = C252333E-6983-4328-A6FE-8A45BB1BF35C error = <nil>
+2020-09-02 16:44:39.091420-0700 (t22195:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 16:44:39.091456-0700 (t22195:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-02 16:44:39.091466-0700 (t22195:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 16:44:39.098012-0700 (t60451:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusCheckToUpload -> CloudSyncStatusPendingUpload
+2020-09-02 16:44:39.405008-0700 (t22195:@x2c831f0) [info] [gallery] UI start to dismiss loading view
+2020-09-02 16:44:39.860959-0700 (main:@x530a35c) [info] [gallery] [Gallery Saving][Preview] didSaveToCameraRoll. success = true, error = <nil>, free_disk_space_at_fail_in_mb = NotApplicable
+2020-09-02 16:44:40.046775-0700 (t62343:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28690bd50>
+2020-09-02 16:44:40.046909-0700 (t62343:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28690bd50>
+2020-09-02 16:44:40.194660-0700 (t22195:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28690bd50>
+2020-09-02 16:44:40.194782-0700 (t22195:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 16:44:40.231347-0700 (t22195:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Media Drawer] Fetched 2835 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 16:44:40.232325-0700 (t64647:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusPendingUpload -> CloudSyncStatusUpload
+2020-09-02 16:44:40.232458-0700 (t64647:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28690bd50>
+2020-09-02 16:44:40.232486-0700 (t64647:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 16:44:40.267121-0700 (t22195:@x677eb48) [info] [gallery] [CloudSync] Start to sync operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-02 23:44:38 +0000
+	parentContext:(null)
+	savingEventUuid:9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "AB5FFF2B-6478-45C1-B14F-07E1E02D6EA8",
+    "time_stamp" = "2020-09-02 23:44:38 +0000",
+    "snap_id" = "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+}
+2020-09-02 16:44:40.267258-0700 (t64647:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2835 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 16:44:40.267769-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 16:44:40.267786-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2835)
+2020-09-02 16:44:40.268815-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2835 camera roll assets.
+2020-09-02 16:44:40.271724-0700 (t22195:@x6747d0c) [info] [gallery] SCCloudCreateOrExtendEntryOperationV2 requests cloudAddSnaps
+2020-09-02 16:44:40.302138-0700 (t20279:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x282841b00>
+2020-09-02 16:44:40.302185-0700 (t20279:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x282841b00>
+2020-09-02 16:44:40.302257-0700 (t20279:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x282841b00>
+2020-09-02 16:44:40.302277-0700 (t20279:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 16:44:40.345204-0700 (t20279:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Media Drawer] Fetched 2835 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 16:44:40.345982-0700 (t20279:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x282841b00>
+2020-09-02 16:44:40.346009-0700 (t20279:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 16:44:40.381037-0700 (t20279:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2835 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 16:44:40.381620-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 16:44:40.381638-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2835)
+2020-09-02 16:44:40.382405-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2835 camera roll assets.
+2020-09-02 16:44:40.690007-0700 (t40479:@x47834e8) [info] [gallery] Write image to disk with targetSize: (0.000000, 0.000000), sourceLeve: 1, entryId: 6617f5f9d18917ef18e750a180eb03acf400f11da142bc9d68cb5f62f44a25d7, UUID: 6617f5f9d18917ef18e750a180eb03acf400f11da142bc9d68cb5f62f44a25d7
+2020-09-02 16:44:40.700266-0700 (t40479:@x47834e8) [info] [gallery] Write image to disk with targetSize: (0.000000, 0.000000), sourceLeve: 1, entryId: 6617f5f9d18917ef18e750a180eb03acf400f11da142bc9d68cb5f62f44a25d7, UUID: 6617f5f9d18917ef18e750a180eb03acf400f11da142bc9d68cb5f62f44a25d7
+2020-09-02 16:44:40.712418-0700 (t40479:@x47834e8) [info] [gallery] Write image to disk with targetSize: (48.000000, 48.000000), sourceLeve: 1, entryId: 6617f5f9d18917ef18e750a180eb03acf400f11da142bc9d68cb5f62f44a25d7, UUID: 70f9dec6187ad84b53c08168ed27687fd5e4c86c11e1d57440a474e7de358e0f
+2020-09-02 16:44:40.719495-0700 (t40479:@x47834e8) [info] [gallery] Write image to disk with targetSize: (44.000000, 44.000000), sourceLeve: 1, entryId: 6617f5f9d18917ef18e750a180eb03acf400f11da142bc9d68cb5f62f44a25d7, UUID: 70c0470559b3cd578f091fcb0a060209b0aa292aabc61e6b11c68321b0752861
+2020-09-02 16:44:41.707826-0700 (t64647:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2868fefd0>
+2020-09-02 16:44:41.707882-0700 (t64647:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2868fefd0>
+2020-09-02 16:44:41.707934-0700 (t64647:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2868fefd0>
+2020-09-02 16:44:41.707967-0700 (t64647:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2868fefd0>
+2020-09-02 16:44:42.897516-0700 (t22195:@x67a3698) [info] [gallery] snap media C252333E-6983-4328-A6FE-8A45BB1BF35C upload request succeed
+2020-09-02 16:44:43.106890-0700 (t40479:@x67a49dc) [info] [gallery] snap thumbnail C252333E-6983-4328-A6FE-8A45BB1BF35C upload request succeed
+2020-09-02 16:44:43.368802-0700 (t42787:@x67a6818) [info] [gallery] snap overlay C252333E-6983-4328-A6FE-8A45BB1BF35C upload request succeed
+2020-09-02 16:44:44.387538-0700 (t40479:@x6781870) [info] [gallery] Operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-02 23:44:38 +0000
+	parentContext:(null)
+	savingEventUuid:9E274D4A-F326-44D4-A50F-CD97E0C98E6E
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "AB5FFF2B-6478-45C1-B14F-07E1E02D6EA8",
+    "time_stamp" = "2020-09-02 23:44:38 +0000",
+    "snap_id" = "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+} succeed
+2020-09-02 16:44:44.740075-0700 (t62343:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-02 16:44:44.740131-0700 (t62343:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-02 16:44:44.743015-0700 (t40479:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusUpload -> CloudSyncStatusCheckToUpload
+2020-09-02 16:44:44.743455-0700 (t62343:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 16:44:44.743485-0700 (t62343:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-02 16:44:44.743493-0700 (t62343:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 16:44:44.744638-0700 (t40479:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusCheckToUpload -> CloudSyncStatusSynced
+2020-09-02 16:44:44.907872-0700 (t64647:@x2c831f0) [info] [gallery] UI start to dismiss loading view
+2020-09-02 16:46:15.855419-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 16:46:16.065838-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 16:47:49.545051-0700 (t52019:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28690ae20>
+2020-09-02 16:47:49.545259-0700 (t52019:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28690ae20>
+2020-09-02 16:47:49.545420-0700 (t52019:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28690ae20>
+2020-09-02 16:47:49.545456-0700 (t52019:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28690ae20>
+2020-09-02 17:03:33.944748-0700 (t57455:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28691fc30>
+2020-09-02 17:03:33.945336-0700 (t57455:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28691fc30>
+2020-09-02 17:03:33.945570-0700 (t57455:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28691fc30>
+2020-09-02 17:03:33.946943-0700 (t57455:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28691fc30>
+2020-09-02 18:21:48.298874-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 18:21:48.301913-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 18:21:48.401592-0700 (t53059:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 18:21:48.514553-0700 (t31275:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 18:21:49.835358-0700 (t53059:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2835 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 18:21:49.836605-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 18:21:49.837043-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2835)
+2020-09-02 18:21:49.842966-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2835 camera roll assets.
+2020-09-02 18:21:49.874269-0700 (t31275:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Media Drawer] Fetched 2835 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 18:24:40.043561-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 18:24:40.115540-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:20:07.981252-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:20:07.985100-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:20:13.203533-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:20:13.203778-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:20:20.849383-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:20:20.849623-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:20:45.123334-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:20:45.123434-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:23:33.916956-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:23:33.917216-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:23:35.853279-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:23:35.853333-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:23:36.086993-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:23:36.087075-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:23:48.845728-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:23:48.853960-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:23:50.227985-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:23:50.228060-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:23:52.124132-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:23:52.124239-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:28:44.511540-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:28:44.511655-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:28:45.376232-0700 (main:@x5307a88) [info] [gallery] [Gallery Saving][Preview] willSaveSnap. saveToGallery = 1, saveToCameraRoll = 1, media_type = IMAGE, edited = true,  gallerySnapCount = 1, savingSessionId = B364B905-C1C9-4559-991B-01EC49D530C5, captureSessionId = 8AEB5D66-C0F5-45FB-88F5-9A161C570980
+2020-09-02 19:28:45.384788-0700 (main:@x53082fc) [info] [gallery] [Gallery Saving][Preview][Breakdown] Gallery saving session id 10535224-2A38-4599-AACE-2EF8634607DD
+2020-09-02 19:28:45.775134-0700 (main:@x530aeb4) [info] [gallery] [Gallery Saving][Preview] didFinishGeneratePreviewBlobWithEventUuid Gallery saving session id 10535224-2A38-4599-AACE-2EF8634607DD
+2020-09-02 19:28:45.820490-0700 (t44351:@x2c110e8) [info] [gallery] update params [
+    "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    33.885925,
+    -117.996381,
+] in EGOCipher
+2020-09-02 19:28:45.878256-0700 (t44351:@x2c110e8) [info] [gallery] update params [
+    "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    <0x4edfd842eecf6c0c4d321427751c9b6ba3145e56dda6349e99af6c3266a1f4>,
+    <0x6ae9b39bb23387a9e574fe33d30922c>,
+    0,
+] in EGOCipher
+2020-09-02 19:28:45.909114-0700 (t44351:@x2be1d8c) [info] [gallery] [Gallery Saving][Breakdown] didFinishEncrypting
+2020-09-02 19:28:45.921193-0700 (t44351:@x530af50) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishPackingGallerySnapWithEventUuid Gallery saving session id 10535224-2A38-4599-AACE-2EF8634607DD
+2020-09-02 19:28:45.921273-0700 (t44351:@x530afec) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishPackingSnapDetailWithEventUuidGallery saving session id 10535224-2A38-4599-AACE-2EF8634607DD
+2020-09-02 19:28:45.925016-0700 (t44351:@x2be2964) [info] [gallery] [Gallery Data Mutator] Save photo snap {
+	objectID:(null)
+	attribution:(null)
+	cameraFrontFacing:0
+	cameraRollId:(null)
+	captureTimeUtc:2020-09-03 02:23:43 +0000
+	cloudMediaState:0
+	createTimeUtc:2020-09-03 02:28:45 +0000
+	deviceFirmwareInfo:(null)
+	deviceId:(null)
+	duplicatedFromSnapId:(null)
+	duration:10
+	externalId:(null)
+	framing:(null)
+	hasInterestingnessScore:0
+	hasLocation:1
+	hasOverlayImage:0
+	hasSynced:0
+	hasThumbnail:0
+	height:1136
+	infiniteDuration:1
+	interestingnessScore:0
+	isTemporary:0
+	mediaAttributes:(null)
+	mediaFormat:1
+	mediaId:0983D0B3-F912-4C79-9DAA-9E2546B20DF2
+	mediaRedirectURI:(null)
+	mediaType:0
+	multiSnapGroupId:(null)
+	orientation:0
+	overlayRedirectURI:(null)
+	placeholderCreateTime:2020-09-03 02:28:45 +0000
+	retryFromSnapId:(null)
+	saverUserId:9bb53ea6-7c2b-4d44-a082-9d3a1c67165f
+	sensorBlob:(null)
+	servletMediaFormat:image_jpeg
+	snapAssets:(null)
+	snapId:0983D0B3-F912-4C79-9DAA-9E2546B20DF2
+	sojuMediaType:0
+	source:0
+	thumbnailRedirectURI:(null)
+	thumbnailUploadState:1
+	timeZoneName:America/Los_Angeles
+	toolVersions:(null)
+	transferBatchId:(null)
+	width:640
+}
+ to new entry {
+	objectID:(null)
+	autosaveTimeUtc:(null)
+	bitmojiComicId:(null)
+	collectionAttributes:(null)
+	createTimeUtc:2020-09-03 02:28:45 +0000
+	creatorUserId:(null)
+	dataVaultEncryption:(null)
+	duplicateTimeUtc:2020-09-03 02:28:45 +0000
+	earliestSnapCreateTimeUtc:(null)
+	entryId:0983D0B3-F912-4C79-9DAA-9E2546B20DF2
+	entrySource:0
+	externalId:(null)
+	featuredExpirationTimeUtc:(null)
+	galleryType:0
+	isAutoClusterPrototype:0
+	isHidden:0
+	isPrivate:0
+	isTemporary:0
+	latestSnapCaptureTimeUtc:(null)
+	pendingSyncs:0
+	priority:0
+	retryFromEntryId:(null)
+	saverUserId:(null)
+	seenInCarousel:0
+	seqNum:0
+	snapsHash:(null)
+	snapsInfo:(null)
+	snapsOrder:(null)
+	snapsViewed:0
+	sources:0
+	subtitle:(null)
+	syncedAutosaveTimeUtc:(null)
+	syncedIsPrivate:0
+	syncedTitle:(null)
+	thumbnailEncrypted:0
+	thumbnailUrl:(null)
+	thumbnailUrlType:0
+	title:(null)
+	titleOverlayUrl:(null)
+	titleOverlayUrlType:0
+	viewType:0
+}
+, context {
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 02:28:45 +0000
+	parentContext:(null)
+	savingEventUuid:10535224-2A38-4599-AACE-2EF8634607DD
+	contextMenuSource:(null)
+}
+
+2020-09-02 19:28:45.928446-0700 (t44351:@x530b124) [info] [gallery] [Gallery Saving][Preview][Breakdown] didStartAppendingOperationWithEventUuid Gallery saving session id 10535224-2A38-4599-AACE-2EF8634607DD
+2020-09-02 19:28:45.929292-0700 (t44351:@x677756c) [info] [gallery] [CloudSync] Appending operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 02:28:45 +0000
+	parentContext:(null)
+	savingEventUuid:10535224-2A38-4599-AACE-2EF8634607DD
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "8C1739FB-6CA5-48A7-9A0B-D048B3764C3E",
+    "time_stamp" = "2020-09-03 02:28:45 +0000",
+    "snap_id" = "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+}
+2020-09-02 19:28:46.054935-0700 (t36959:@x67780f8) [info] [gallery] [CloudSync] Successfully finished appending operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 02:28:45 +0000
+	parentContext:(null)
+	savingEventUuid:10535224-2A38-4599-AACE-2EF8634607DD
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "8C1739FB-6CA5-48A7-9A0B-D048B3764C3E",
+    "time_stamp" = "2020-09-03 02:28:45 +0000",
+    "snap_id" = "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+}
+2020-09-02 19:28:46.425133-0700 (t44351:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-02 19:28:46.425772-0700 (t44351:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-02 19:28:46.427756-0700 (t44351:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 19:28:46.427852-0700 (t44351:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-02 19:28:46.427864-0700 (t44351:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 19:28:46.428581-0700 (t36959:@x2c110e8) [info] [gallery] update params [
+    "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    33.885925,
+    -117.996381,
+] in EGOCipher
+2020-09-02 19:28:46.437395-0700 (t36959:@x530b1c0) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishAppendingOperationWithEventUuid Gallery saving session id 10535224-2A38-4599-AACE-2EF8634607DD
+2020-09-02 19:28:46.444690-0700 (t5131:@x678bbd4) [info] [gallery] [CloudSync] Schedule background media upload
+2020-09-02 19:28:46.450079-0700 (main:@x5309558) [info] [gallery] [Gallery Saving][Preview] didSaveToMemories. gallerySnapId = 0983D0B3-F912-4C79-9DAA-9E2546B20DF2 error = <nil>
+2020-09-02 19:28:46.818191-0700 (t45871:@x2c831f0) [info] [gallery] UI start to dismiss loading view
+2020-09-02 19:28:48.165322-0700 (main:@x530a35c) [info] [gallery] [Gallery Saving][Preview] didSaveToCameraRoll. success = true, error = <nil>, free_disk_space_at_fail_in_mb = NotApplicable
+2020-09-02 19:28:48.446299-0700 (t27251:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2868234e0>
+2020-09-02 19:28:48.446358-0700 (t27251:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2868234e0>
+2020-09-02 19:28:48.529448-0700 (t49015:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2868234e0>
+2020-09-02 19:28:48.529485-0700 (t49015:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 19:28:48.534715-0700 (t27251:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2868234e0>
+2020-09-02 19:28:48.534742-0700 (t27251:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 19:28:48.728676-0700 (t27251:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2836 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 19:28:48.729169-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 19:28:48.729184-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2836)
+2020-09-02 19:28:48.730154-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2836 camera roll assets.
+2020-09-02 19:28:48.753897-0700 (t49015:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Media Drawer] Fetched 2836 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 19:28:48.758098-0700 (t14435:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x286848360>
+2020-09-02 19:28:48.758140-0700 (t14435:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x286848360>
+2020-09-02 19:28:48.779715-0700 (t44351:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x286848360>
+2020-09-02 19:28:48.779824-0700 (t44351:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 19:28:48.787948-0700 (t53779:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x286848360>
+2020-09-02 19:28:48.787973-0700 (t53779:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 19:28:48.830201-0700 (t44351:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2836 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 19:28:48.830732-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 19:28:48.830745-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2836)
+2020-09-02 19:28:48.831539-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2836 camera roll assets.
+2020-09-02 19:28:48.855837-0700 (t53779:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Media Drawer] Fetched 2836 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 19:28:49.790028-0700 (t27251:@x47834e8) [info] [gallery] Write image to disk with targetSize: (0.000000, 0.000000), sourceLeve: 1, entryId: 2e4544ae553dfebee3bf2e1bb654a42f626048bdb29c6844d9cfc98c323308f6, UUID: 2e4544ae553dfebee3bf2e1bb654a42f626048bdb29c6844d9cfc98c323308f6
+2020-09-02 19:28:49.796902-0700 (t27251:@x47834e8) [info] [gallery] Write image to disk with targetSize: (48.000000, 48.000000), sourceLeve: 1, entryId: 2e4544ae553dfebee3bf2e1bb654a42f626048bdb29c6844d9cfc98c323308f6, UUID: afc690e72c5a7091ef3adfdf403189772faa505aa57b9ec5399ba0580ddbc38e
+2020-09-02 19:28:49.800850-0700 (t27251:@x47834e8) [info] [gallery] Write image to disk with targetSize: (44.000000, 44.000000), sourceLeve: 1, entryId: 2e4544ae553dfebee3bf2e1bb654a42f626048bdb29c6844d9cfc98c323308f6, UUID: bde78812a9184e5b46a86d87a3af084909192095f239729f8d70132f7d5fdf6d
+2020-09-02 19:28:49.819049-0700 (t14435:@x47834e8) [info] [gallery] Write image to disk with targetSize: (0.000000, 0.000000), sourceLeve: 1, entryId: 2e4544ae553dfebee3bf2e1bb654a42f626048bdb29c6844d9cfc98c323308f6, UUID: 2e4544ae553dfebee3bf2e1bb654a42f626048bdb29c6844d9cfc98c323308f6
+2020-09-02 19:28:51.462178-0700 (t58471:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusSynced -> CloudSyncStatusCheckToUpload
+2020-09-02 19:28:51.462307-0700 (t58471:@x678c93c) [info] [gallery] [CloudSync] Background media upload finished
+2020-09-02 19:28:51.463214-0700 (t58471:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusCheckToUpload -> CloudSyncStatusPendingUpload
+2020-09-02 19:28:53.760673-0700 (t53779:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28687a370>
+2020-09-02 19:28:53.760739-0700 (t53779:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28687a370>
+2020-09-02 19:28:53.760765-0700 (t45871:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28687a370>
+2020-09-02 19:28:53.760791-0700 (t53779:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28687a370>
+2020-09-02 19:29:14.437936-0700 (main:@x5307a88) [info] [gallery] [Gallery Saving][Preview] willSaveSnap. saveToGallery = 1, saveToCameraRoll = 1, media_type = IMAGE, edited = true,  gallerySnapCount = 1, savingSessionId = A46F40FA-6427-4DA3-B868-3119B32D8F01, captureSessionId = 9EE738F2-69D4-4F2E-AAFE-3CCB54ECADF5
+2020-09-02 19:29:14.438731-0700 (main:@x53082fc) [info] [gallery] [Gallery Saving][Preview][Breakdown] Gallery saving session id DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+2020-09-02 19:29:14.764422-0700 (main:@x530aeb4) [info] [gallery] [Gallery Saving][Preview] didFinishGeneratePreviewBlobWithEventUuid Gallery saving session id DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+2020-09-02 19:29:14.795530-0700 (t7499:@x2c110e8) [info] [gallery] update params [
+    "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    33.885882,
+    -117.996582,
+] in EGOCipher
+2020-09-02 19:29:14.826953-0700 (t7499:@x2c110e8) [info] [gallery] update params [
+    "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    <0x833e440d7af4816d8d08b2f131b9e842b5d943eacb53ff9c5b48622a7afe1ad>,
+    <0x5b6ae18b87da733d5d2da62b47d18c5>,
+    0,
+] in EGOCipher
+2020-09-02 19:29:14.841474-0700 (t7499:@x2be1d8c) [info] [gallery] [Gallery Saving][Breakdown] didFinishEncrypting
+2020-09-02 19:29:14.851132-0700 (t7499:@x530af50) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishPackingGallerySnapWithEventUuid Gallery saving session id DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+2020-09-02 19:29:14.851233-0700 (t7499:@x530afec) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishPackingSnapDetailWithEventUuidGallery saving session id DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+2020-09-02 19:29:14.853615-0700 (t7499:@x2be2964) [info] [gallery] [Gallery Data Mutator] Save photo snap {
+	objectID:(null)
+	attribution:(null)
+	cameraFrontFacing:0
+	cameraRollId:(null)
+	captureTimeUtc:2020-09-03 02:29:08 +0000
+	cloudMediaState:0
+	createTimeUtc:2020-09-03 02:29:14 +0000
+	deviceFirmwareInfo:(null)
+	deviceId:(null)
+	duplicatedFromSnapId:(null)
+	duration:10
+	externalId:(null)
+	framing:(null)
+	hasInterestingnessScore:0
+	hasLocation:1
+	hasOverlayImage:0
+	hasSynced:0
+	hasThumbnail:0
+	height:1136
+	infiniteDuration:1
+	interestingnessScore:0
+	isTemporary:0
+	mediaAttributes:(null)
+	mediaFormat:1
+	mediaId:5069655A-0DE2-442E-8F8F-98325F8E1D1F
+	mediaRedirectURI:(null)
+	mediaType:0
+	multiSnapGroupId:(null)
+	orientation:0
+	overlayRedirectURI:(null)
+	placeholderCreateTime:2020-09-03 02:29:14 +0000
+	retryFromSnapId:(null)
+	saverUserId:9bb53ea6-7c2b-4d44-a082-9d3a1c67165f
+	sensorBlob:(null)
+	servletMediaFormat:image_jpeg
+	snapAssets:(null)
+	snapId:5069655A-0DE2-442E-8F8F-98325F8E1D1F
+	sojuMediaType:0
+	source:0
+	thumbnailRedirectURI:(null)
+	thumbnailUploadState:1
+	timeZoneName:America/Los_Angeles
+	toolVersions:(null)
+	transferBatchId:(null)
+	width:640
+}
+ to new entry {
+	objectID:(null)
+	autosaveTimeUtc:(null)
+	bitmojiComicId:(null)
+	collectionAttributes:(null)
+	createTimeUtc:2020-09-03 02:29:14 +0000
+	creatorUserId:(null)
+	dataVaultEncryption:(null)
+	duplicateTimeUtc:2020-09-03 02:29:14 +0000
+	earliestSnapCreateTimeUtc:(null)
+	entryId:5069655A-0DE2-442E-8F8F-98325F8E1D1F
+	entrySource:0
+	externalId:(null)
+	featuredExpirationTimeUtc:(null)
+	galleryType:0
+	isAutoClusterPrototype:0
+	isHidden:0
+	isPrivate:0
+	isTemporary:0
+	latestSnapCaptureTimeUtc:(null)
+	pendingSyncs:0
+	priority:0
+	retryFromEntryId:(null)
+	saverUserId:(null)
+	seenInCarousel:0
+	seqNum:0
+	snapsHash:(null)
+	snapsInfo:(null)
+	snapsOrder:(null)
+	snapsViewed:0
+	sources:0
+	subtitle:(null)
+	syncedAutosaveTimeUtc:(null)
+	syncedIsPrivate:0
+	syncedTitle:(null)
+	thumbnailEncrypted:0
+	thumbnailUrl:(null)
+	thumbnailUrlType:0
+	title:(null)
+	titleOverlayUrl:(null)
+	titleOverlayUrlType:0
+	viewType:0
+}
+, context {
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 02:29:14 +0000
+	parentContext:(null)
+	savingEventUuid:DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+	contextMenuSource:(null)
+}
+
+2020-09-02 19:29:14.854836-0700 (t7499:@x530b124) [info] [gallery] [Gallery Saving][Preview][Breakdown] didStartAppendingOperationWithEventUuid Gallery saving session id DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+2020-09-02 19:29:14.855786-0700 (t7499:@x677756c) [info] [gallery] [CloudSync] Appending operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 02:29:14 +0000
+	parentContext:(null)
+	savingEventUuid:DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "8A1CBA06-F90E-4A0D-A413-F2D47260A80E",
+    "time_stamp" = "2020-09-03 02:29:14 +0000",
+    "snap_id" = "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+}
+2020-09-02 19:29:14.931742-0700 (t7499:@x67780f8) [info] [gallery] [CloudSync] Successfully finished appending operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 02:29:14 +0000
+	parentContext:(null)
+	savingEventUuid:DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "8A1CBA06-F90E-4A0D-A413-F2D47260A80E",
+    "time_stamp" = "2020-09-03 02:29:14 +0000",
+    "snap_id" = "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+}
+2020-09-02 19:29:14.937786-0700 (t7499:@x2c110e8) [info] [gallery] update params [
+    "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    33.885882,
+    -117.996582,
+] in EGOCipher
+2020-09-02 19:29:14.947078-0700 (t7499:@x530b1c0) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishAppendingOperationWithEventUuid Gallery saving session id DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+2020-09-02 19:29:15.313105-0700 (t33631:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-02 19:29:15.313179-0700 (t33631:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-02 19:29:15.315073-0700 (main:@x5309558) [info] [gallery] [Gallery Saving][Preview] didSaveToMemories. gallerySnapId = 5069655A-0DE2-442E-8F8F-98325F8E1D1F error = <nil>
+2020-09-02 19:29:15.316680-0700 (t48175:@x678bbd4) [info] [gallery] [CloudSync] Schedule background media upload
+2020-09-02 19:29:15.316894-0700 (t33631:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 19:29:15.316998-0700 (t33631:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-02 19:29:15.317009-0700 (t33631:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 19:29:15.801415-0700 (t33631:@x47834e8) [info] [gallery] Write image to disk with targetSize: (0.000000, 0.000000), sourceLeve: 1, entryId: fa303d5d06e277dd0f6a6158316485560eff98a74783772e63b5528ddb7540b0, UUID: fa303d5d06e277dd0f6a6158316485560eff98a74783772e63b5528ddb7540b0
+2020-09-02 19:29:15.806185-0700 (t33631:@x47834e8) [info] [gallery] Write image to disk with targetSize: (0.000000, 0.000000), sourceLeve: 1, entryId: fa303d5d06e277dd0f6a6158316485560eff98a74783772e63b5528ddb7540b0, UUID: fa303d5d06e277dd0f6a6158316485560eff98a74783772e63b5528ddb7540b0
+2020-09-02 19:29:15.814540-0700 (t33631:@x2c831f0) [info] [gallery] UI start to dismiss loading view
+2020-09-02 19:29:15.815290-0700 (t33631:@x47834e8) [info] [gallery] Write image to disk with targetSize: (44.000000, 44.000000), sourceLeve: 1, entryId: fa303d5d06e277dd0f6a6158316485560eff98a74783772e63b5528ddb7540b0, UUID: d2a51e4210c839ab730cc332a3e7ff11b717719df8eb785ef23ce43771cd8474
+2020-09-02 19:29:15.828027-0700 (t33631:@x47834e8) [info] [gallery] Write image to disk with targetSize: (48.000000, 48.000000), sourceLeve: 1, entryId: fa303d5d06e277dd0f6a6158316485560eff98a74783772e63b5528ddb7540b0, UUID: 30b56854d32fcdd5abeee5f46d06dc0a6ad29b5cf140a6c9b5051b06be7d07b7
+2020-09-02 19:29:15.833884-0700 (main:@x530a35c) [info] [gallery] [Gallery Saving][Preview] didSaveToCameraRoll. success = true, error = <nil>, free_disk_space_at_fail_in_mb = NotApplicable
+2020-09-02 19:29:16.035614-0700 (t32527:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2868f4ab0>
+2020-09-02 19:29:16.035725-0700 (t32527:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2868f4ab0>
+2020-09-02 19:29:16.049914-0700 (t33631:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2868f4ab0>
+2020-09-02 19:29:16.049955-0700 (t33631:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 19:29:16.160153-0700 (t33631:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2837 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 19:29:16.160640-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 19:29:16.160654-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2837)
+2020-09-02 19:29:16.161727-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2837 camera roll assets.
+2020-09-02 19:29:16.162015-0700 (t33631:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2868f4ab0>
+2020-09-02 19:29:16.162044-0700 (t33631:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 19:29:16.201669-0700 (t33631:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Media Drawer] Fetched 2837 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 19:29:16.233547-0700 (t2835:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2868f3ba0>
+2020-09-02 19:29:16.253766-0700 (t2835:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2868f3ba0>
+2020-09-02 19:29:16.563782-0700 (t29247:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2868f3ba0>
+2020-09-02 19:29:16.563997-0700 (t29247:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 19:29:16.603679-0700 (t29247:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2837 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 19:29:16.604218-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 19:29:16.604233-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2837)
+2020-09-02 19:29:16.605017-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2837 camera roll assets.
+2020-09-02 19:29:16.605298-0700 (t29247:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2868f3ba0>
+2020-09-02 19:29:16.605327-0700 (t29247:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 19:29:16.647773-0700 (t29247:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Media Drawer] Fetched 2837 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 19:29:17.587001-0700 (t33631:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2868fed00>
+2020-09-02 19:29:17.587063-0700 (t33631:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x2868fed00>
+2020-09-02 19:29:17.587127-0700 (t48175:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2868fed00>
+2020-09-02 19:29:17.587166-0700 (t33631:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x2868fed00>
+2020-09-02 19:29:17.657638-0700 (t48175:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusPendingUpload -> CloudSyncStatusCheckToUpload
+2020-09-02 19:29:17.657733-0700 (t48175:@x678c93c) [info] [gallery] [CloudSync] Background media upload finished
+2020-09-02 19:29:17.658888-0700 (t48175:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusCheckToUpload -> CloudSyncStatusPendingUpload
+2020-09-02 19:29:23.118337-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:29:23.118618-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:54:22.348001-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:54:22.348075-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 19:54:25.527898-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 19:54:25.527979-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 20:34:32.450765-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 20:34:32.450953-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 20:35:09.188563-0700 (main:@x5307a88) [info] [gallery] [Gallery Saving][Preview] willSaveSnap. saveToGallery = 1, saveToCameraRoll = 1, media_type = IMAGE, edited = true,  gallerySnapCount = 1, savingSessionId = 2075DA16-A07F-4FDA-A8C8-48E985291B1F, captureSessionId = D4B228CA-D27A-4D9F-A75C-ADE86CD3B6AF
+2020-09-02 20:35:09.192382-0700 (main:@x53082fc) [info] [gallery] [Gallery Saving][Preview][Breakdown] Gallery saving session id 396FCD13-38A7-4D16-9997-43E978F996C3
+2020-09-02 20:35:09.264440-0700 (main:@x530aeb4) [info] [gallery] [Gallery Saving][Preview] didFinishGeneratePreviewBlobWithEventUuid Gallery saving session id 396FCD13-38A7-4D16-9997-43E978F996C3
+2020-09-02 20:35:09.565127-0700 (t41479:@x2c110e8) [info] [gallery] update params [
+    "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    33.858271,
+    -118.080083,
+] in EGOCipher
+2020-09-02 20:35:09.605984-0700 (t41479:@x2c110e8) [info] [gallery] update params [
+    "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    <0x95d99cca526da3a248f65d7b90ff1a46fd8d4634ebb93129507884cfc3224e0>,
+    <0xfd6d399588308f6a28821556e30adea>,
+    0,
+] in EGOCipher
+2020-09-02 20:35:09.622279-0700 (t41479:@x2be1d8c) [info] [gallery] [Gallery Saving][Breakdown] didFinishEncrypting
+2020-09-02 20:35:09.640504-0700 (t41479:@x530af50) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishPackingGallerySnapWithEventUuid Gallery saving session id 396FCD13-38A7-4D16-9997-43E978F996C3
+2020-09-02 20:35:09.640602-0700 (t41479:@x530afec) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishPackingSnapDetailWithEventUuidGallery saving session id 396FCD13-38A7-4D16-9997-43E978F996C3
+2020-09-02 20:35:09.643458-0700 (t41479:@x2be2964) [info] [gallery] [Gallery Data Mutator] Save photo snap {
+	objectID:(null)
+	attribution:(null)
+	cameraFrontFacing:1
+	cameraRollId:(null)
+	captureTimeUtc:2020-09-03 03:34:57 +0000
+	cloudMediaState:0
+	createTimeUtc:2020-09-03 03:35:09 +0000
+	deviceFirmwareInfo:(null)
+	deviceId:(null)
+	duplicatedFromSnapId:(null)
+	duration:10
+	externalId:(null)
+	framing:(null)
+	hasInterestingnessScore:0
+	hasLocation:1
+	hasOverlayImage:1
+	hasSynced:0
+	hasThumbnail:0
+	height:1136
+	infiniteDuration:1
+	interestingnessScore:0
+	isTemporary:0
+	mediaAttributes:(null)
+	mediaFormat:1
+	mediaId:332C7595-604C-46BA-9614-2CE5DDE1DCFB
+	mediaRedirectURI:(null)
+	mediaType:0
+	multiSnapGroupId:(null)
+	orientation:0
+	overlayRedirectURI:(null)
+	placeholderCreateTime:2020-09-03 03:35:09 +0000
+	retryFromSnapId:(null)
+	saverUserId:9bb53ea6-7c2b-4d44-a082-9d3a1c67165f
+	sensorBlob:(null)
+	servletMediaFormat:image_jpeg
+	snapAssets:(null)
+	snapId:332C7595-604C-46BA-9614-2CE5DDE1DCFB
+	sojuMediaType:0
+	source:0
+	thumbnailRedirectURI:(null)
+	thumbnailUploadState:1
+	timeZoneName:America/Los_Angeles
+	toolVersions:(
+    "{\n\ttool:CAPTION\n\tversion:2\n}\n"
+)
+	transferBatchId:(null)
+	width:640
+}
+ to new entry {
+	objectID:(null)
+	autosaveTimeUtc:(null)
+	bitmojiComicId:(null)
+	collectionAttributes:(null)
+	createTimeUtc:2020-09-03 03:35:09 +0000
+	creatorUserId:(null)
+	dataVaultEncryption:(null)
+	duplicateTimeUtc:2020-09-03 03:35:09 +0000
+	earliestSnapCreateTimeUtc:(null)
+	entryId:332C7595-604C-46BA-9614-2CE5DDE1DCFB
+	entrySource:0
+	externalId:(null)
+	featuredExpirationTimeUtc:(null)
+	galleryType:0
+	isAutoClusterPrototype:0
+	isHidden:0
+	isPrivate:0
+	isTemporary:0
+	latestSnapCaptureTimeUtc:(null)
+	pendingSyncs:0
+	priority:0
+	retryFromEntryId:(null)
+	saverUserId:(null)
+	seenInCarousel:0
+	seqNum:0
+	snapsHash:(null)
+	snapsInfo:(null)
+	snapsOrder:(null)
+	snapsViewed:0
+	sources:0
+	subtitle:(null)
+	syncedAutosaveTimeUtc:(null)
+	syncedIsPrivate:0
+	syncedTitle:(null)
+	thumbnailEncrypted:0
+	thumbnailUrl:(null)
+	thumbnailUrlType:0
+	title:(null)
+	titleOverlayUrl:(null)
+	titleOverlayUrlType:0
+	viewType:0
+}
+, context {
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 03:35:09 +0000
+	parentContext:(null)
+	savingEventUuid:396FCD13-38A7-4D16-9997-43E978F996C3
+	contextMenuSource:(null)
+}
+
+2020-09-02 20:35:09.646627-0700 (t41479:@x530b124) [info] [gallery] [Gallery Saving][Preview][Breakdown] didStartAppendingOperationWithEventUuid Gallery saving session id 396FCD13-38A7-4D16-9997-43E978F996C3
+2020-09-02 20:35:09.647467-0700 (t41479:@x677756c) [info] [gallery] [CloudSync] Appending operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 03:35:09 +0000
+	parentContext:(null)
+	savingEventUuid:396FCD13-38A7-4D16-9997-43E978F996C3
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "F115B056-59FB-43E0-B7DC-FF9116813756",
+    "time_stamp" = "2020-09-03 03:35:09 +0000",
+    "snap_id" = "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+}
+2020-09-02 20:35:09.731843-0700 (t39475:@x67780f8) [info] [gallery] [CloudSync] Successfully finished appending operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 03:35:09 +0000
+	parentContext:(null)
+	savingEventUuid:396FCD13-38A7-4D16-9997-43E978F996C3
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "F115B056-59FB-43E0-B7DC-FF9116813756",
+    "time_stamp" = "2020-09-03 03:35:09 +0000",
+    "snap_id" = "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+}
+2020-09-02 20:35:09.739799-0700 (t39475:@x2c110e8) [info] [gallery] update params [
+    "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    33.858271,
+    -118.080083,
+] in EGOCipher
+2020-09-02 20:35:09.750661-0700 (t39475:@x530b1c0) [info] [gallery] [Gallery Saving][Preview][Breakdown] didFinishAppendingOperationWithEventUuid Gallery saving session id 396FCD13-38A7-4D16-9997-43E978F996C3
+2020-09-02 20:35:10.115929-0700 (t62255:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-02 20:35:10.117845-0700 (t62255:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-02 20:35:10.120094-0700 (main:@x5309558) [info] [gallery] [Gallery Saving][Preview] didSaveToMemories. gallerySnapId = 332C7595-604C-46BA-9614-2CE5DDE1DCFB error = <nil>
+2020-09-02 20:35:10.125014-0700 (t24383:@x678bbd4) [info] [gallery] [CloudSync] Schedule background media upload
+2020-09-02 20:35:10.130707-0700 (t62255:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 20:35:10.130757-0700 (t62255:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-02 20:35:10.130779-0700 (t62255:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-02 20:35:10.704131-0700 (main:@x530a35c) [info] [gallery] [Gallery Saving][Preview] didSaveToCameraRoll. success = true, error = <nil>, free_disk_space_at_fail_in_mb = NotApplicable
+2020-09-02 20:35:10.801727-0700 (t34679:@x2c831f0) [info] [gallery] UI start to dismiss loading view
+2020-09-02 20:35:10.816809-0700 (t34679:@x47834e8) [info] [gallery] Write image to disk with targetSize: (0.000000, 0.000000), sourceLeve: 1, entryId: dd73c42c5205ab48f3ce4d72aae138951250327cb9e98290647b8953f970779e, UUID: dd73c42c5205ab48f3ce4d72aae138951250327cb9e98290647b8953f970779e
+2020-09-02 20:35:10.843461-0700 (t34679:@x47834e8) [info] [gallery] Write image to disk with targetSize: (0.000000, 0.000000), sourceLeve: 1, entryId: dd73c42c5205ab48f3ce4d72aae138951250327cb9e98290647b8953f970779e, UUID: dd73c42c5205ab48f3ce4d72aae138951250327cb9e98290647b8953f970779e
+2020-09-02 20:35:10.850654-0700 (t34679:@x47834e8) [info] [gallery] Write image to disk with targetSize: (48.000000, 48.000000), sourceLeve: 1, entryId: dd73c42c5205ab48f3ce4d72aae138951250327cb9e98290647b8953f970779e, UUID: c512e860d03690e16b0dafebf8157298187d25d24a4580c7e3cb870a1c36e720
+2020-09-02 20:35:10.861651-0700 (t34679:@x47834e8) [info] [gallery] Write image to disk with targetSize: (44.000000, 44.000000), sourceLeve: 1, entryId: dd73c42c5205ab48f3ce4d72aae138951250327cb9e98290647b8953f970779e, UUID: f411e829c8505b5706a64ff3a8a9b4e49e1efc924429d5cdecd96a22e91341f8
+2020-09-02 20:35:10.878013-0700 (t47823:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28a928480>
+2020-09-02 20:35:10.878073-0700 (t47823:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28a928480>
+2020-09-02 20:35:10.882807-0700 (t34679:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28a928480>
+2020-09-02 20:35:10.882834-0700 (t34679:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 20:35:10.951717-0700 (t34679:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2838 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 20:35:10.952206-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 20:35:10.952220-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2838)
+2020-09-02 20:35:10.954559-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2838 camera roll assets.
+2020-09-02 20:35:10.963507-0700 (t34679:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28a928480>
+2020-09-02 20:35:10.963539-0700 (t34679:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 20:35:11.020645-0700 (t34679:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Media Drawer] Fetched 2838 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 20:35:11.061757-0700 (t57155:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28a928990>
+2020-09-02 20:35:11.061800-0700 (t57155:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28a928990>
+2020-09-02 20:35:11.122413-0700 (t57155:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28a928990>
+2020-09-02 20:35:11.122444-0700 (t57155:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 20:35:11.160718-0700 (t57155:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Media Drawer] Fetched 2838 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 20:35:11.175201-0700 (t11347:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28a928990>
+2020-09-02 20:35:11.175229-0700 (t11347:@x530e4e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _fetchPhotoAssets
+2020-09-02 20:35:11.209737-0700 (t11347:@x530f2cc) [info] [gallery] [SCGalleryPhotoLibraryFetcher][Camera Roll Tab] Fetched 2838 assets with query:
+((pixelWidth > 0 AND pixelHeight > 0 AND mediaType == 1) OR (mediaType == 2 AND duration > 0)) AND (NOT mediaSubtype & 1 != 0)
+2020-09-02 20:35:11.210279-0700 (main:@x2e2ce64) [info] [gallery] [Camera Roll Tab] _initializePhotoLibraryFetcher resultHandler
+2020-09-02 20:35:11.210293-0700 (main:@x2e2d048) [info] [gallery] [Camera Roll Tab] didUpdateWithFetchResult (count = 2838)
+2020-09-02 20:35:11.211073-0700 (main:@x2e2ae90) [info] [gallery] [Camera Roll Tab] Updating camera roll tab, we have 2838 camera roll assets.
+2020-09-02 20:35:12.293866-0700 (t11579:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28a939290>
+2020-09-02 20:35:12.293921-0700 (t11579:@x530dbc8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] photoLibraryDidChange: <PHChange: 0x28a939290>
+2020-09-02 20:35:12.293971-0700 (t11579:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28a939290>
+2020-09-02 20:35:12.294005-0700 (t11579:@x530e158) [info] [gallery] [SCGalleryPhotoLibraryFetcher] _needsRefetchPhotoAssetsForChange: <PHChange: 0x28a939290>
+2020-09-02 20:35:12.360299-0700 (t41479:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusPendingUpload -> CloudSyncStatusCheckToUpload
+2020-09-02 20:35:12.360547-0700 (t41479:@x678c93c) [info] [gallery] [CloudSync] Background media upload finished
+2020-09-02 20:35:12.361495-0700 (t41479:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusCheckToUpload -> CloudSyncStatusPendingUpload
+2020-09-02 20:38:09.353276-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 20:38:09.397352-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 21:04:31.142191-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 21:04:31.149865-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-02 21:04:35.597361-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-02 21:04:35.597429-0700 (main:@x530f9ec) [info] [gallery] [SCGalleryPhotoLibraryFetcher] didEnterBackground
+2020-09-03 00:58:24.962347-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-03 00:58:24.965026-0700 (main:@x530f8e8) [info] [gallery] [SCGalleryPhotoLibraryFetcher] willEnterForeground
+2020-09-03 00:58:26.646854-0700 (t59459:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusPendingUpload -> CloudSyncStatusUpload
+2020-09-03 00:58:26.801789-0700 (t59459:@x677eb48) [info] [gallery] [CloudSync] Start to sync operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 02:28:45 +0000
+	parentContext:(null)
+	savingEventUuid:10535224-2A38-4599-AACE-2EF8634607DD
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "8C1739FB-6CA5-48A7-9A0B-D048B3764C3E",
+    "time_stamp" = "2020-09-03 02:28:45 +0000",
+    "snap_id" = "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+}
+2020-09-03 00:58:26.806229-0700 (t59459:@x6747d0c) [info] [gallery] SCCloudCreateOrExtendEntryOperationV2 requests cloudAddSnaps
+2020-09-03 00:58:32.164906-0700 (t59459:@x67a3698) [info] [gallery] snap media 0983D0B3-F912-4C79-9DAA-9E2546B20DF2 upload request succeed
+2020-09-03 00:58:32.297370-0700 (t51499:@x67a49dc) [info] [gallery] snap thumbnail 0983D0B3-F912-4C79-9DAA-9E2546B20DF2 upload request succeed
+2020-09-03 00:58:33.102388-0700 (t14379:@x6781870) [info] [gallery] Operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 02:28:45 +0000
+	parentContext:(null)
+	savingEventUuid:10535224-2A38-4599-AACE-2EF8634607DD
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "8C1739FB-6CA5-48A7-9A0B-D048B3764C3E",
+    "time_stamp" = "2020-09-03 02:28:45 +0000",
+    "snap_id" = "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+} succeed
+2020-09-03 00:58:33.572464-0700 (t16663:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-03 00:58:33.573238-0700 (t16663:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-03 00:58:33.573635-0700 (t14379:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusUpload -> CloudSyncStatusCheckToUpload
+2020-09-03 00:58:33.579762-0700 (t16663:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 00:58:33.579794-0700 (t16663:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-03 00:58:33.579859-0700 (t16663:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 00:58:33.582248-0700 (t14379:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusCheckToUpload -> CloudSyncStatusPendingUpload
+2020-09-03 00:58:33.600637-0700 (t27955:@x2bf004c) [info] [gallery] [YES Datasource] Delete highlight entry E2F9C895-067A-4537-B8FC-4CF5A3A24A42(42467406-d0a0-49ba-8aac-67826d42a3ca)
+2020-09-03 00:58:33.669762-0700 (t14379:@x52f3ab4) [info] [gallery] [CloudFS][InvalidateEntity] Evicting 86adf01f3d88913c13cbcc085fd52046871209e757487c8aa4482832dc96a9f8 with attributes <nil>
+2020-09-03 00:58:33.670191-0700 (t14379:@x52f3ab4) [info] [gallery] [CloudFS][InvalidateEntity] Evicting ee768fd2fc321714bd85e0c58224d3d14e34c2dd468d98edf9f60a292851bcf4 with attributes {
+	storageSize:6586784
+	level:2
+	order:210
+	isSynced:1
+	isExpired:1
+	entityName:SCCloudFSGallerySnapEntity
+	evictionTime:1601454757.939336
+}
+
+2020-09-03 00:58:33.682460-0700 (t14379:@x52f3ab4) [info] [gallery] [CloudFS][InvalidateEntity] Evicting 46140b636aefcb0260291b26db54dc9b507789da68ceb4f2e83c37174a56f9b1 with attributes <nil>
+2020-09-03 00:58:33.682750-0700 (t14379:@x52f3ab4) [info] [gallery] [CloudFS][InvalidateEntity] Evicting 7845b53aea61df98395d1f73e6a4c97fc857dfb9c8ce179da7d172308631abfa with attributes {
+	storageSize:6487216
+	level:2
+	order:212
+	isSynced:1
+	isExpired:1
+	entityName:SCCloudFSGallerySnapEntity
+	evictionTime:1601454766.712604
+}
+
+2020-09-03 00:58:33.974901-0700 (t16663:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusPendingUpload -> CloudSyncStatusUpload
+2020-09-03 00:58:34.401484-0700 (t16663:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-03 00:58:34.401644-0700 (t16663:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-03 00:58:34.402760-0700 (t16663:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 00:58:34.402787-0700 (t16663:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-03 00:58:34.402794-0700 (t16663:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 00:58:34.406365-0700 (t14379:@x677756c) [info] [gallery] [CloudSync] Appending operation {
+    "request_endpoint" = "/gallery/delete_entries",
+    "request_id" = "BB785AF9-CBB4-43F0-A071-88CAC1677055",
+    "operation_type" = "DELETE_ENTRIES_OPERATION",
+    "user_context" = "{
+	source:Featured Story
+	action:Delete Expired Featured Stories Entries
+	startTime:2020-09-03 07:58:33 +0000
+	parentContext:(null)
+	savingEventUuid:(null)
+	contextMenuSource:(null)
+}
+",
+    "entry_ids" = [
+        "E2F9C895-067A-4537-B8FC-4CF5A3A24A42",
+    ],
+}
+2020-09-03 00:58:35.046996-0700 (t11167:@x2c831f0) [info] [gallery] UI start to dismiss loading view
+2020-09-03 00:58:35.047009-0700 (t11167:@x2c831f0) [info] [gallery] UI start to dismiss loading view
+2020-09-03 00:58:35.402087-0700 (t27955:@x677eb48) [info] [gallery] [CloudSync] Start to sync operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 02:29:14 +0000
+	parentContext:(null)
+	savingEventUuid:DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "8A1CBA06-F90E-4A0D-A413-F2D47260A80E",
+    "time_stamp" = "2020-09-03 02:29:14 +0000",
+    "snap_id" = "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+}
+2020-09-03 00:58:35.406380-0700 (t27955:@x6747d0c) [info] [gallery] SCCloudCreateOrExtendEntryOperationV2 requests cloudAddSnaps
+2020-09-03 00:58:47.294035-0700 (t59459:@x67a3698) [info] [gallery] snap media 5069655A-0DE2-442E-8F8F-98325F8E1D1F upload request succeed
+2020-09-03 00:58:47.577151-0700 (t14379:@x67a49dc) [info] [gallery] snap thumbnail 5069655A-0DE2-442E-8F8F-98325F8E1D1F upload request succeed
+2020-09-03 00:58:48.381602-0700 (t21839:@x6781870) [info] [gallery] Operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 02:29:14 +0000
+	parentContext:(null)
+	savingEventUuid:DE687AE1-B8AF-4B81-8F44-2BA82F4AB4C1
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "8A1CBA06-F90E-4A0D-A413-F2D47260A80E",
+    "time_stamp" = "2020-09-03 02:29:14 +0000",
+    "snap_id" = "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+} succeed
+2020-09-03 00:58:48.814967-0700 (t14379:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-03 00:58:48.815014-0700 (t14379:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-03 00:58:48.818570-0700 (t59459:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusUpload -> CloudSyncStatusCheckToUpload
+2020-09-03 00:58:48.818899-0700 (t14379:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 00:58:48.818926-0700 (t14379:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-03 00:58:48.818935-0700 (t14379:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 00:58:48.827346-0700 (t59459:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusCheckToUpload -> CloudSyncStatusPendingUpload
+2020-09-03 00:58:48.848861-0700 (t59459:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusPendingUpload -> CloudSyncStatusUpload
+2020-09-03 00:58:48.867973-0700 (t59459:@x677eb48) [info] [gallery] [CloudSync] Start to sync operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 03:35:09 +0000
+	parentContext:(null)
+	savingEventUuid:396FCD13-38A7-4D16-9997-43E978F996C3
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "F115B056-59FB-43E0-B7DC-FF9116813756",
+    "time_stamp" = "2020-09-03 03:35:09 +0000",
+    "snap_id" = "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+}
+2020-09-03 00:58:48.868920-0700 (t59459:@x6747d0c) [info] [gallery] SCCloudCreateOrExtendEntryOperationV2 requests cloudAddSnaps
+2020-09-03 00:58:49.113440-0700 (t51499:@x2c831f0) [info] [gallery] UI start to dismiss loading view
+2020-09-03 00:58:50.885240-0700 (t23695:@x67a3698) [info] [gallery] snap media 332C7595-604C-46BA-9614-2CE5DDE1DCFB upload request succeed
+2020-09-03 00:58:51.076201-0700 (t62223:@x67a49dc) [info] [gallery] snap thumbnail 332C7595-604C-46BA-9614-2CE5DDE1DCFB upload request succeed
+2020-09-03 00:58:51.209407-0700 (t27955:@x67a6818) [info] [gallery] snap overlay 332C7595-604C-46BA-9614-2CE5DDE1DCFB upload request succeed
+2020-09-03 00:58:51.942093-0700 (t21839:@x6781870) [info] [gallery] Operation {
+    "user_context" = "{
+	source:Preview vc
+	action:Save image
+	startTime:2020-09-03 03:35:09 +0000
+	parentContext:(null)
+	savingEventUuid:396FCD13-38A7-4D16-9997-43E978F996C3
+	contextMenuSource:(null)
+}
+",
+    "request_endpoint" = "/gallery/v2/update_entries",
+    "operation_type" = "CREATE_OR_EXTEND_ENTRY_OPERATION_V2",
+    "request_id" = "F115B056-59FB-43E0-B7DC-FF9116813756",
+    "time_stamp" = "2020-09-03 03:35:09 +0000",
+    "snap_id" = "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    "is_private" = "false",
+    "entry_seq_num" = 0,
+    "entry_type" = 0,
+    "entry_id" = "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+} succeed
+2020-09-03 00:58:52.232600-0700 (t62223:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-03 00:58:52.232648-0700 (t62223:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-03 00:58:52.234863-0700 (t14379:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusUpload -> CloudSyncStatusCheckToUpload
+2020-09-03 10:04:54.031138-0700 (t39427:@x4787c8) [info] [gallery] Finish setting up profile once {
+	objectID:x-coredata://84F0E14D-D066-4684-BD2A-F4A820C15A70/GalleryProfile/p1
+	lastBackupNotificationTime:(null)
+	lastFeaturedStorySyncTime:2020-09-02 19:59:44 +0000
+	lastFullSyncTime:2020-09-02 08:28:34 +0000
+	snapTotalQuota:100000
+	syncToken:eyJtYXhTZXFudW0iOjMyNTYsIm1pblRpbWVzdGFtcCI6MTQ2ODA0NTc4MDg1N30=
+	userId:9bb53ea6-7c2b-4d44-a082-9d3a1c67165f
+}
+
+2020-09-03 10:04:54.032505-0700 (t39427:@x476bc4) [info] [gallery] set up operation dependency for profile {
+	objectID:x-coredata://84F0E14D-D066-4684-BD2A-F4A820C15A70/GalleryProfile/p1
+	lastBackupNotificationTime:(null)
+	lastFeaturedStorySyncTime:2020-09-02 19:59:44 +0000
+	lastFullSyncTime:2020-09-02 08:28:34 +0000
+	snapTotalQuota:100000
+	syncToken:eyJtYXhTZXFudW0iOjMyNTYsIm1pblRpbWVzdGFtcCI6MTQ2ODA0NTc4MDg1N30=
+	userId:9bb53ea6-7c2b-4d44-a082-9d3a1c67165f
+}
+ userSession validate: 0
+2020-09-03 10:04:54.033547-0700 (t39427:@x47b710) [info] [gallery] [Laguna Data Source] Started waiting for SCIdleMonitor.
+2020-09-03 10:04:54.034949-0700 (t58371:@x5640e4) [info] [gallery] [Laguna Data Source] Finished waiting for SCIdleMonitor.
+2020-09-03 10:04:54.034979-0700 (t58371:@x564484) [info] [gallery] [Laguna Data Source] Started setup.
+2020-09-03 10:04:54.067288-0700 (t45575:@x5a7528) [info] [gallery] [CloudSync][Resync Step] Sync unknown, {
+    "may_upload" = "false",
+    "should_resync" = "true",
+    "token" = "eyJtYXhTZXFudW0iOjMyNTYsIm1pblRpbWVzdGFtcCI6MTQ2ODA0NTc4MDg1N30=",
+}
+2020-09-03 10:04:54.067619-0700 (t45575:@x5a7528) [info] [gallery] [CloudSync][Resync Step] Calling sync endpoint, {
+    "token" = "eyJtYXhTZXFudW0iOjMyNTYsIm1pblRpbWVzdGFtcCI6MTQ2ODA0NTc4MDg1N30=",
+}
+2020-09-03 10:04:54.077793-0700 (t58371:@x2f3e248) [info] [gallery] [Laguna Data Source] _setupOnCloudSyncReady
+2020-09-03 10:04:54.077857-0700 (t58371:@x2f3d89c) [info] [gallery] [Laguna Data Source] _processLagunaContentChange
+2020-09-03 10:04:54.811202-0700 (t4611:@x6785b20) [info] [gallery] [CloudSync][Sync Response] Started transaction for sync response
+2020-09-03 10:04:55.151673-0700 (t4611:@x6789ea8) [info] [gallery] [CloudSync][Sync Response] Finished undo local commits
+2020-09-03 10:04:55.160495-0700 (t4611:@x6786164) [info] [gallery] [CloudSync][Sync Response] Handling 4 sync response entries
+2020-09-03 10:04:55.226556-0700 (t4611:@x6788010) [info] [gallery] [CloudSync][Sync Response] Done handling sync response entries
+2020-09-03 10:04:55.226754-0700 (t18435:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.227440-0700 (t18435:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.227589-0700 (t18435:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.227761-0700 (t18435:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.227910-0700 (t18435:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.228063-0700 (t18435:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.228339-0700 (t18435:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.229415-0700 (t4611:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.229453-0700 (t4611:@x2c113e4) [info] [gallery] update params [
+    "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    33.885882,
+    -117.996582,
+] in memoryCache
+2020-09-03 10:04:55.229549-0700 (t4611:@x2c113e4) [info] [gallery] update params [
+    "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    33.885925,
+    -117.996381,
+] in memoryCache
+2020-09-03 10:04:55.229583-0700 (t4611:@x2c113e4) [info] [gallery] update params [
+    "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    33.855699,
+    -118.145894,
+] in memoryCache
+2020-09-03 10:04:55.229611-0700 (t4611:@x2c113e4) [info] [gallery] update params [
+    "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    33.858271,
+    -118.080083,
+] in memoryCache
+2020-09-03 10:04:55.229892-0700 (t4611:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.230024-0700 (t4611:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.230039-0700 (t4611:@x2c113e4) [info] [gallery] update params [
+    "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    <0x833e440d7af4816d8d08b2f131b9e842b5d943eacb53ff9c5b48622a7afe1ad>,
+    <0x5b6ae18b87da733d5d2da62b47d18c5>,
+    0,
+] in memoryCache
+2020-09-03 10:04:55.230159-0700 (t4611:@x2c113e4) [info] [gallery] update params [
+    "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    <0x4edfd842eecf6c0c4d321427751c9b6ba3145e56dda6349e99af6c3266a1f4>,
+    <0x6ae9b39bb23387a9e574fe33d30922c>,
+    0,
+] in memoryCache
+2020-09-03 10:04:55.230185-0700 (t4611:@x2c113e4) [info] [gallery] update params [
+    "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    <0x6eadc3c543dd2b2f62999b4d1b1e4801fed7e91753062ceaa73728145a9c6d>,
+    <0xde1caef91df8f1785dee9a83a1a7bb31>,
+    0,
+] in memoryCache
+2020-09-03 10:04:55.230210-0700 (t4611:@x2c113e4) [info] [gallery] update params [
+    "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    <0x95d99cca526da3a248f65d7b90ff1a46fd8d4634ebb93129507884cfc3224e0>,
+    <0xfd6d399588308f6a28821556e30adea>,
+    0,
+] in memoryCache
+2020-09-03 10:04:55.230233-0700 (t4611:@x2c113e4) [info] [gallery] update params <nil> in memoryCache
+2020-09-03 10:04:55.231155-0700 (t4611:@x678ae70) [info] [gallery] [CloudSync][Sync Response] Done handling sync response entries
+2020-09-03 10:04:55.231261-0700 (t4611:@x67881bc) [info] [gallery] [CloudSync][Sync Response] Finished transaction for sync response
+2020-09-03 10:04:55.485975-0700 (t57863:@x67889b0) [info] [gallery] [CloudSync][Sync Response] Response Parse Time: 0.683240
+2020-09-03 10:04:55.487009-0700 (t57863:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusResync -> CloudSyncStatusCheckToUpload
+2020-09-03 10:04:56.009683-0700 (t45575:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-03 10:04:56.009906-0700 (t45575:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-03 10:04:56.010517-0700 (t45575:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 10:04:56.010689-0700 (t45575:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-03 10:04:56.010821-0700 (t45575:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 10:04:56.036280-0700 (t36355:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusCheckToUpload -> CloudSyncStatusSynced
+2020-09-03 10:04:56.861708-0700 (t57863:@x5a7528) [info] [gallery] [CloudSync][Resync Step] Received response from sync endpoint, <EXCEED_SIZE_LIMIT>
+2020-09-03 10:04:56.865077-0700 (t57863:@x5a7528) [info] [gallery] [CloudSync][Resync Step] Process response, <nil>
+2020-09-03 10:04:56.865087-0700 (t57863:@x5a7528) [info] [gallery] [CloudSync][Resync Step] Undo local commits, <nil>
+2020-09-03 10:04:56.865106-0700 (t57863:@x5a7528) [info] [gallery] [CloudSync][Resync Step] Reapplying local commits, <nil>
+2020-09-03 10:04:56.865113-0700 (t57863:@x5a7528) [info] [gallery] [CloudSync][Resync Step] Resync done, checking for upload, <nil>
+2020-09-03 10:04:57.298125-0700 (t16387:@x2c15234) [info] [gallery] Start to setup EGOCipher
+2020-09-03 10:04:57.401854-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:04:57.401980-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:04:57.402093-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:04:57.402201-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:04:57.402307-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:04:57.402404-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:04:57.402829-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:04:57.403231-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:04:57.403316-0700 (t16387:@x2c110e8) [info] [gallery] update params [
+    "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    33.885882,
+    -117.996582,
+] in EGOCipher
+2020-09-03 10:04:57.877665-0700 (t16387:@x2c110e8) [info] [gallery] update params [
+    "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    33.885925,
+    -117.996381,
+] in EGOCipher
+2020-09-03 10:04:57.920705-0700 (t16387:@x2c110e8) [info] [gallery] update params [
+    "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    33.855699,
+    -118.145894,
+] in EGOCipher
+2020-09-03 10:04:58.107037-0700 (t16387:@x2c110e8) [info] [gallery] update params [
+    "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    33.858271,
+    -118.080083,
+] in EGOCipher
+2020-09-03 10:04:58.109169-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:04:58.132969-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:04:58.133035-0700 (t16387:@x2c110e8) [info] [gallery] update params [
+    "5069655A-0DE2-442E-8F8F-98325F8E1D1F",
+    <0x833e440d7af4816d8d08b2f131b9e842b5d943eacb53ff9c5b48622a7afe1ad>,
+    <0x5b6ae18b87da733d5d2da62b47d18c5>,
+    0,
+] in EGOCipher
+2020-09-03 10:04:58.141309-0700 (t16387:@x2c110e8) [info] [gallery] update params [
+    "0983D0B3-F912-4C79-9DAA-9E2546B20DF2",
+    <0x4edfd842eecf6c0c4d321427751c9b6ba3145e56dda6349e99af6c3266a1f4>,
+    <0x6ae9b39bb23387a9e574fe33d30922c>,
+    0,
+] in EGOCipher
+2020-09-03 10:04:58.141718-0700 (t16387:@x2c110e8) [info] [gallery] update params [
+    "C252333E-6983-4328-A6FE-8A45BB1BF35C",
+    <0x6eadc3c543dd2b2f62999b4d1b1e4801fed7e91753062ceaa73728145a9c6d>,
+    <0xde1caef91df8f1785dee9a83a1a7bb31>,
+    0,
+] in EGOCipher
+2020-09-03 10:04:58.142189-0700 (t16387:@x2c110e8) [info] [gallery] update params [
+    "332C7595-604C-46BA-9614-2CE5DDE1DCFB",
+    <0x95d99cca526da3a248f65d7b90ff1a46fd8d4634ebb93129507884cfc3224e0>,
+    <0xfd6d399588308f6a28821556e30adea>,
+    0,
+] in EGOCipher
+2020-09-03 10:04:58.142650-0700 (t16387:@x2c110e8) [info] [gallery] update params <nil> in EGOCipher
+2020-09-03 10:05:03.272325-0700 (t18435:@x5e1094) [info] [gallery] [YES Datasource] Setup
+2020-09-03 10:05:03.272485-0700 (t18435:@x5e17f8) [info] [gallery] [YES Datasource] Cloudsync is ready, fetch from server if needed
+2020-09-03 10:05:03.273081-0700 (t18435:@x2bfc684) [info] [gallery] [YES Datasource] Fetching new collections from server
+2020-09-03 10:05:03.274607-0700 (t18435:@x2bfbdc8) [info] [gallery] [YES Datasource] Fetching new collections from server
+2020-09-03 10:05:04.072704-0700 (t39171:@x2bfc28c) [info] [gallery] [YES Datasource] Servlet response received, status code:2000
+2020-09-03 10:05:04.072751-0700 (t39171:@x2bfceb4) [info] [gallery] [YES Datasource] Processing server response
+2020-09-03 10:05:04.081272-0700 (t39171:@x2bfd2cc) [info] [gallery] [YES Datasource] All servlet collection ids: [
+    "4a4d7c9a-f1ca-44cf-9310-a6dfcfc1dd15",
+]
+2020-09-03 10:05:04.081300-0700 (t39171:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid DDFFC556-BEFA-4DB2-91BE-C1F500FEB265(04135721-afe1-4288-b6be-87c3e3feb9fd)
+2020-09-03 10:05:04.081310-0700 (t39171:@x2bfd614) [info] [gallery] [YES Datasource] Saved local entry unknown to server, cannot delete: DDFFC556-BEFA-4DB2-91BE-C1F500FEB265(04135721-afe1-4288-b6be-87c3e3feb9fd)
+2020-09-03 10:05:04.081317-0700 (t39171:@x2bfd74c) [info] [gallery] [YES Datasource] local entry still known to server, but this is the saved copy: DDFFC556-BEFA-4DB2-91BE-C1F500FEB265(04135721-afe1-4288-b6be-87c3e3feb9fd)
+2020-09-03 10:05:04.081321-0700 (t39171:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid 69E9EC40-5FFA-4935-BE90-53C4F6C48F99(dd959fcb-8c96-4b82-9af3-6cc5ff1d53ff)
+2020-09-03 10:05:04.081325-0700 (t39171:@x2bfd614) [info] [gallery] [YES Datasource] Saved local entry unknown to server, cannot delete: 69E9EC40-5FFA-4935-BE90-53C4F6C48F99(dd959fcb-8c96-4b82-9af3-6cc5ff1d53ff)
+2020-09-03 10:05:04.081328-0700 (t39171:@x2bfd74c) [info] [gallery] [YES Datasource] local entry still known to server, but this is the saved copy: 69E9EC40-5FFA-4935-BE90-53C4F6C48F99(dd959fcb-8c96-4b82-9af3-6cc5ff1d53ff)
+2020-09-03 10:05:04.081331-0700 (t39171:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid F46E4AA3-F479-4C5B-B7A2-37EF5B6AB5EE(b7da6f6a-4032-44c8-ac0e-5cd59ea8f792)
+2020-09-03 10:05:04.081335-0700 (t39171:@x2bfd614) [info] [gallery] [YES Datasource] Saved local entry unknown to server, cannot delete: F46E4AA3-F479-4C5B-B7A2-37EF5B6AB5EE(b7da6f6a-4032-44c8-ac0e-5cd59ea8f792)
+2020-09-03 10:05:04.081338-0700 (t39171:@x2bfd74c) [info] [gallery] [YES Datasource] local entry still known to server, but this is the saved copy: F46E4AA3-F479-4C5B-B7A2-37EF5B6AB5EE(b7da6f6a-4032-44c8-ac0e-5cd59ea8f792)
+2020-09-03 10:05:04.081341-0700 (t39171:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid 4D92B2DA-34B0-442D-92C4-F946DBC22F91(9c7abc36-b9c2-46b0-9553-cde99a3fe166)
+2020-09-03 10:05:04.081344-0700 (t39171:@x2bfd614) [info] [gallery] [YES Datasource] Saved local entry unknown to server, cannot delete: 4D92B2DA-34B0-442D-92C4-F946DBC22F91(9c7abc36-b9c2-46b0-9553-cde99a3fe166)
+2020-09-03 10:05:04.081346-0700 (t39171:@x2bfd74c) [info] [gallery] [YES Datasource] local entry still known to server, but this is the saved copy: 4D92B2DA-34B0-442D-92C4-F946DBC22F91(9c7abc36-b9c2-46b0-9553-cde99a3fe166)
+2020-09-03 10:05:04.081350-0700 (t39171:@x2bfd430) [info] [gallery] [YES Datasource] Local feature entryid 502351B6-D749-4CDF-B0A1-1D68971252E9(4a4d7c9a-f1ca-44cf-9310-a6dfcfc1dd15)
+2020-09-03 10:05:04.081355-0700 (t39171:@x2bfd614) [info] [gallery] [YES Datasource] local entry still known to server: 502351B6-D749-4CDF-B0A1-1D68971252E9(4a4d7c9a-f1ca-44cf-9310-a6dfcfc1dd15)
+2020-09-03 10:05:04.081372-0700 (t39171:@x2bfe0d8) [info] [gallery] [YES Datasource] Skip creation for featured collection 4a4d7c9a-f1ca-44cf-9310-a6dfcfc1dd15
+2020-09-03 10:05:04.082105-0700 (t47875:@x2bfe50c) [info] [gallery] [YES Datasource] Done processing all new collections
+2020-09-03 10:05:04.082235-0700 (t47875:@x5e228c) [info] [gallery] [YES Datasource] Waiting for next collections update
+2020-09-03 10:05:04.547497-0700 (t39171:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-03 10:05:04.547655-0700 (t39171:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-03 10:05:04.548000-0700 (t39171:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 10:05:04.548079-0700 (t39171:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-03 10:05:04.548101-0700 (t39171:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 11:13:34.416974-0700 (t8711:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-03 11:13:34.417024-0700 (t8711:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-03 11:13:34.417557-0700 (t8711:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 11:13:34.417736-0700 (t8711:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-03 11:13:34.417745-0700 (t8711:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 19:17:03.174254-0700 (t15107:@x47b710) [info] [gallery] [Laguna Data Source] Started waiting for SCIdleMonitor.
+2020-09-03 19:17:03.181233-0700 (t19971:@x4787c8) [info] [gallery] Finish setting up profile once {
+	objectID:x-coredata://84F0E14D-D066-4684-BD2A-F4A820C15A70/GalleryProfile/p1
+	lastBackupNotificationTime:(null)
+	lastFeaturedStorySyncTime:2020-09-03 17:05:04 +0000
+	lastFullSyncTime:2020-09-03 17:04:55 +0000
+	snapTotalQuota:100000
+	syncToken:eyJtYXhTZXFudW0iOjMyNjAsIm1pblRpbWVzdGFtcCI6MTQ2ODA0NTc4MDg1N30=
+	userId:9bb53ea6-7c2b-4d44-a082-9d3a1c67165f
+}
+
+2020-09-03 19:17:03.686338-0700 (t19971:@x5ab1d4) [info] [gallery] [Laguna Data Source] entryPlaceholdersForLagunaContentWithExistingEntries:
+2020-09-03 19:17:03.687362-0700 (t32003:@x5640e4) [info] [gallery] [Laguna Data Source] Finished waiting for SCIdleMonitor.
+2020-09-03 19:17:03.687388-0700 (t32003:@x564484) [info] [gallery] [Laguna Data Source] Started setup.
+2020-09-03 19:17:03.691258-0700 (t32003:@x2f3e248) [info] [gallery] [Laguna Data Source] _setupOnCloudSyncReady
+2020-09-03 19:17:03.691317-0700 (t32003:@x2f3d89c) [info] [gallery] [Laguna Data Source] _processLagunaContentChange
+2020-09-03 19:17:03.699665-0700 (t19971:@x5ab434) [info] [gallery] [Laguna Data Source] _mixWithLagunaContentIfNeeded
+2020-09-03 19:17:03.704598-0700 (t19971:@x5ab7dc) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 19:17:03.704634-0700 (t19971:@x5ad05c) [info] [gallery] [Laguna Data Source] updateBucketsByMixingUnpersistedContent:allContent:intoEntries:
+2020-09-03 19:17:03.704644-0700 (t19971:@x5ad0c8) [info] [gallery] [Laguna Data Source] Mixing new list of content - []
+2020-09-03 19:17:04.414745-0700 (t15879:@x5e1094) [info] [gallery] [YES Datasource] Setup
+2020-09-03 19:17:06.069832-0700 (t22547:@x476bc4) [info] [gallery] set up operation dependency for profile {
+	objectID:x-coredata://84F0E14D-D066-4684-BD2A-F4A820C15A70/GalleryProfile/p1
+	lastBackupNotificationTime:(null)
+	lastFeaturedStorySyncTime:2020-09-03 17:05:04 +0000
+	lastFullSyncTime:2020-09-03 17:04:55 +0000
+	snapTotalQuota:100000
+	syncToken:eyJtYXhTZXFudW0iOjMyNjAsIm1pblRpbWVzdGFtcCI6MTQ2ODA0NTc4MDg1N30=
+	userId:9bb53ea6-7c2b-4d44-a082-9d3a1c67165f
+}
+ userSession validate: 0
+2020-09-03 19:17:06.074955-0700 (t32003:@x5a7528) [info] [gallery] [CloudSync][Resync Step] Sync unknown, {
+    "may_upload" = "false",
+    "should_resync" = "false",
+    "token" = "eyJtYXhTZXFudW0iOjMyNjAsIm1pblRpbWVzdGFtcCI6MTQ2ODA0NTc4MDg1N30=",
+}
+2020-09-03 19:17:06.074855-0700 (t22547:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusResync -> CloudSyncStatusCheckToUpload
+2020-09-03 19:17:06.075985-0700 (t32003:@x5e17f8) [info] [gallery] [YES Datasource] Cloudsync is ready, fetch from server if needed
+2020-09-03 19:17:06.076894-0700 (t32003:@x5e228c) [info] [gallery] [YES Datasource] Waiting for next collections update
+2020-09-03 19:17:06.077783-0700 (t22547:@x47f6ec) [info] [gallery] [CloudSync] Transition to state from CloudSyncStatusCheckToUpload -> CloudSyncStatusSynced
